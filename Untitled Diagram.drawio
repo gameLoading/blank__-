@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-15T14:01:01.886Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36 Edg/86.0.622.69" etag="tjrKL994pM9DWdbL1CZD" version="13.9.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-11-15T14:48:44.133Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36 Edg/86.0.622.69" etag="_zgXPjNYMqAW56FdL9My" version="13.9.8" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="MaoRoutingManager">
-    <mxGraphModel dx="1022" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1202" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -13,7 +13,7 @@
         <mxCell id="qZ5nZu_tmP8a2BOeMHJ3-23" value="app activated" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" parent="qZ5nZu_tmP8a2BOeMHJ3-22" vertex="1">
           <mxGeometry x="40" width="240" height="710" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="app activated" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="qZ5nZu_tmP8a2BOeMHJ3-23" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="this.activate()" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="qZ5nZu_tmP8a2BOeMHJ3-23" vertex="1">
           <mxGeometry x="57" y="61" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qZ5nZu_tmP8a2BOeMHJ3-0" value="intentMap.clear()" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="qZ5nZu_tmP8a2BOeMHJ3-23" vertex="1">
@@ -55,7 +55,7 @@
         <mxCell id="qZ5nZu_tmP8a2BOeMHJ3-24" value="packet_in message received" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" parent="qZ5nZu_tmP8a2BOeMHJ3-22" vertex="1">
           <mxGeometry x="280" width="460" height="710" as="geometry" />
         </mxCell>
-        <mxCell id="qZ5nZu_tmP8a2BOeMHJ3-34" value="packet_in received" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="qZ5nZu_tmP8a2BOeMHJ3-24" vertex="1">
+        <mxCell id="qZ5nZu_tmP8a2BOeMHJ3-34" value="InternalPacketProcessor.&lt;br&gt;proccess()" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="qZ5nZu_tmP8a2BOeMHJ3-24" vertex="1">
           <mxGeometry x="40" y="61" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qZ5nZu_tmP8a2BOeMHJ3-42" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;intentMap.containsKey()&lt;/span&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;: by src/dst Ip Address&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;" parent="qZ5nZu_tmP8a2BOeMHJ3-24" vertex="1">
@@ -80,9 +80,6 @@
         <mxCell id="qZ5nZu_tmP8a2BOeMHJ3-47" value="path.iterator().next()&lt;br&gt;: getBestPath" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="qZ5nZu_tmP8a2BOeMHJ3-24" vertex="1">
           <mxGeometry x="40" y="310" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qZ5nZu_tmP8a2BOeMHJ3-48" value="&lt;span style=&quot;font-size: 9px&quot;&gt;paths = &lt;br&gt;getLoadBalancePaths()&lt;/span&gt;&lt;br style=&quot;font-size: 9px&quot;&gt;&lt;span style=&quot;font-size: 9px&quot;&gt;: get Paths by src/dst mac&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontSize=9;" parent="qZ5nZu_tmP8a2BOeMHJ3-24" vertex="1">
-          <mxGeometry x="40" y="130" width="160" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="V6kfuixd66puowwuHCxc-22" value="logging Path&lt;br&gt;info(src,dst,links)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="qZ5nZu_tmP8a2BOeMHJ3-24" vertex="1">
           <mxGeometry x="40" y="390" width="160" height="40" as="geometry" />
         </mxCell>
@@ -100,6 +97,9 @@
             <mxPoint x="130" y="520" as="sourcePoint" />
             <mxPoint x="130" y="560" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="dk8zs9Qdye3zeuqklg6u-1" value="&lt;span style=&quot;font-size: 9px&quot;&gt;paths =&amp;nbsp;&lt;br&gt;getLoadBalancePaths()&lt;/span&gt;&lt;br style=&quot;font-size: 9px&quot;&gt;&lt;span style=&quot;font-size: 9px&quot;&gt;: get Paths by src/dst mac&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="qZ5nZu_tmP8a2BOeMHJ3-24">
+          <mxGeometry x="40" y="130" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qZ5nZu_tmP8a2BOeMHJ3-25" value="" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" parent="qZ5nZu_tmP8a2BOeMHJ3-22" vertex="1">
           <mxGeometry x="740" width="20" height="710" as="geometry" />
@@ -137,11 +137,44 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="Vse35agWVs5t85zna4bd" name="Page-2">
-    <mxGraphModel dx="1022" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="Vse35agWVs5t85zna4bd" name="getLoadBalancePaths">
+    <mxGraphModel dx="1022" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="VGAddEkLSjgZHR_A4-wi-0" />
         <mxCell id="VGAddEkLSjgZHR_A4-wi-1" parent="VGAddEkLSjgZHR_A4-wi-0" />
+        <mxCell id="osHa3QH00EgjZzKBYA_n-0" value="&lt;span style=&quot;font-size: 9px&quot;&gt;getLoadBalancePaths()&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="VGAddEkLSjgZHR_A4-wi-1">
+          <mxGeometry x="50" y="60" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="osHa3QH00EgjZzKBYA_n-1" value="LoadBalanceRouting.&lt;br style=&quot;font-size: 11px;&quot;&gt;getLoadBalancePaths()" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=11;" vertex="1" parent="VGAddEkLSjgZHR_A4-wi-1">
+          <mxGeometry x="50" y="140" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="osHa3QH00EgjZzKBYA_n-3" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="VGAddEkLSjgZHR_A4-wi-1" source="osHa3QH00EgjZzKBYA_n-0" target="osHa3QH00EgjZzKBYA_n-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="120" as="sourcePoint" />
+            <mxPoint x="480" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="osHa3QH00EgjZzKBYA_n-4" value="Topology currentTopo = topologyService.currentTopology();&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=11;" vertex="1" parent="VGAddEkLSjgZHR_A4-wi-1">
+          <mxGeometry x="270" y="140" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="osHa3QH00EgjZzKBYA_n-5" value="&lt;span style=&quot;font-size: 9px&quot;&gt;getLoadBalancePaths(src,dst)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="VGAddEkLSjgZHR_A4-wi-1">
+          <mxGeometry x="270" y="60" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="shJUG-iEEOyuPqfWN2ze-1" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="VGAddEkLSjgZHR_A4-wi-1" source="osHa3QH00EgjZzKBYA_n-5" target="osHa3QH00EgjZzKBYA_n-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="110" as="sourcePoint" />
+            <mxPoint x="140" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="shJUG-iEEOyuPqfWN2ze-2" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="VGAddEkLSjgZHR_A4-wi-1" source="osHa3QH00EgjZzKBYA_n-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="110" as="sourcePoint" />
+            <mxPoint x="350" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="shJUG-iEEOyuPqfWN2ze-3" value="LoadBalanceRouting.&lt;br style=&quot;font-size: 11px&quot;&gt;getLoadBalancePaths&lt;br&gt;(topo. src,dst)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=11;" vertex="1" parent="VGAddEkLSjgZHR_A4-wi-1">
+          <mxGeometry x="270" y="240" width="160" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
