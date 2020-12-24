@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-24T07:54:39.142Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="xfJajs3BN7uSwzxQ8lSn" version="14.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-12-24T08:35:12.032Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="1bw3eO7FfrN-11PWyXgV" version="14.1.1" type="github" pages="3">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1422" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -115,49 +115,43 @@
       <root>
         <mxCell id="aC73XDsIqKG3hUR2DNnT-0" />
         <mxCell id="aC73XDsIqKG3hUR2DNnT-1" parent="aC73XDsIqKG3hUR2DNnT-0" />
-        <mxCell id="Rpi6jchmvs54_9ls4LSr-0" value="Openflow-base App" style="shape=table;childLayout=tableLayout;rowLines=0;columnLines=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;fontStyle=1;align=left;rounded=0;" vertex="1" parent="aC73XDsIqKG3hUR2DNnT-1">
-          <mxGeometry x="40" y="-1120" width="750" height="710" as="geometry" />
+        <mxCell id="Rpi6jchmvs54_9ls4LSr-0" value="Openflow-base App" style="shape=table;childLayout=tableLayout;rowLines=0;columnLines=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;fontStyle=1;align=center;rounded=0;" vertex="1" parent="aC73XDsIqKG3hUR2DNnT-1">
+          <mxGeometry x="40" y="-1120" width="750" height="630" as="geometry" />
         </mxCell>
-        <mxCell id="Rpi6jchmvs54_9ls4LSr-1" value="OpticalModelLoader.java" style="swimlane;horizontal=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="Rpi6jchmvs54_9ls4LSr-0">
-          <mxGeometry y="40" width="750" height="670" as="geometry" />
+        <mxCell id="Rpi6jchmvs54_9ls4LSr-1" value="OpenFlowClassifierManager.java" style="swimlane;horizontal=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="Rpi6jchmvs54_9ls4LSr-0">
+          <mxGeometry y="40" width="750" height="590" as="geometry" />
         </mxCell>
         <mxCell id="Rpi6jchmvs54_9ls4LSr-2" value="" style="swimlane;connectable=0;startSize=0;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;align=left;" vertex="1" parent="Rpi6jchmvs54_9ls4LSr-1">
-          <mxGeometry x="40" width="710" height="670" as="geometry" />
+          <mxGeometry x="40" width="710" height="590" as="geometry" />
         </mxCell>
         <mxCell id="Rpi6jchmvs54_9ls4LSr-3" value="app activated" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Rpi6jchmvs54_9ls4LSr-2">
           <mxGeometry x="60" y="30" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Rpi6jchmvs54_9ls4LSr-4" value="OpticalPortOperator 등록" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Rpi6jchmvs54_9ls4LSr-2">
+        <mxCell id="Rpi6jchmvs54_9ls4LSr-12" value="OpenFlowClassifierConfigFactory &lt;br&gt;장비별 등록" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Rpi6jchmvs54_9ls4LSr-2">
           <mxGeometry x="60" y="140" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Rpi6jchmvs54_9ls4LSr-5" value="ConnectPoint" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Rpi6jchmvs54_9ls4LSr-2">
-          <mxGeometry x="60" y="430" width="220" height="60" as="geometry" />
+        <mxCell id="Yr1gq1VHMnSCD-bMXYAA-2" value="Network Config(상태) 이벤트 리스너&lt;br&gt;등록" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Rpi6jchmvs54_9ls4LSr-2">
+          <mxGeometry x="60" y="250" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Rpi6jchmvs54_9ls4LSr-6" value="OpticalPortConfig" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Rpi6jchmvs54_9ls4LSr-2">
-          <mxGeometry x="380" y="430" width="220" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Rpi6jchmvs54_9ls4LSr-7" value="OpticalPortOperator&lt;br&gt;&amp;lt;OpticalPortConfig&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Rpi6jchmvs54_9ls4LSr-2">
-          <mxGeometry x="60" y="546" width="220" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Rpi6jchmvs54_9ls4LSr-8" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="Rpi6jchmvs54_9ls4LSr-2" source="Rpi6jchmvs54_9ls4LSr-5" target="Rpi6jchmvs54_9ls4LSr-7">
+        <mxCell id="Yr1gq1VHMnSCD-bMXYAA-3" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="Rpi6jchmvs54_9ls4LSr-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180" y="530" as="sourcePoint" />
-            <mxPoint x="230" y="480" as="targetPoint" />
+            <mxPoint x="169.5" y="310" as="sourcePoint" />
+            <mxPoint x="169.5" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Rpi6jchmvs54_9ls4LSr-9" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Rpi6jchmvs54_9ls4LSr-2" source="Rpi6jchmvs54_9ls4LSr-6" target="Rpi6jchmvs54_9ls4LSr-7">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180" y="500" as="sourcePoint" />
-            <mxPoint x="180" y="556" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Rpi6jchmvs54_9ls4LSr-10" value="1. TYPE&lt;br&gt;2. NAME&lt;br&gt;3. PORT&lt;br&gt;4. STATIC PORT&lt;br&gt;5. STATIC LAMBDA&lt;br&gt;6. SPEED&lt;br&gt;7. OPTIONAL" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=0;align=left;" vertex="1" parent="Rpi6jchmvs54_9ls4LSr-2">
-          <mxGeometry x="380" y="300" width="220" height="130" as="geometry" />
+        <mxCell id="Yr1gq1VHMnSCD-bMXYAA-4" value="장비별 config별로 업데이트&lt;br&gt;기존에 있던 Classifier 삭제 및 재등록&lt;br&gt;기존에 있던 Classifier 모두 삭제 처리&amp;nbsp;&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Rpi6jchmvs54_9ls4LSr-2">
+          <mxGeometry x="60" y="360" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Rpi6jchmvs54_9ls4LSr-11" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="aC73XDsIqKG3hUR2DNnT-1" source="Rpi6jchmvs54_9ls4LSr-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="370" y="-960" as="sourcePoint" />
             <mxPoint x="250" y="-940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yr1gq1VHMnSCD-bMXYAA-1" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="aC73XDsIqKG3hUR2DNnT-1" source="Rpi6jchmvs54_9ls4LSr-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="-980" as="sourcePoint" />
+            <mxPoint x="250" y="-830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
