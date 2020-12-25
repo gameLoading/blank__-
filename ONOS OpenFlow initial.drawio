@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-25T12:54:38.538Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="wN89--lR1jFQkByKZZ6-" version="14.1.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-12-25T13:08:09.325Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Y9hwpz53UpVgVp56bJ_j" version="14.1.2" type="github" pages="3">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="976" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -111,11 +111,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pAAcPX9RCFgzJIJW038B" name="openflow-base">
-    <mxGraphModel dx="976" dy="1788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2440" dy="2717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="aC73XDsIqKG3hUR2DNnT-0" />
         <mxCell id="aC73XDsIqKG3hUR2DNnT-1" parent="aC73XDsIqKG3hUR2DNnT-0" />
-        <mxCell id="Rpi6jchmvs54_9ls4LSr-0" value="openflow-base App" style="shape=table;childLayout=tableLayout;rowLines=0;columnLines=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;fontStyle=0;align=center;rounded=0;" parent="aC73XDsIqKG3hUR2DNnT-1" vertex="1">
+        <mxCell id="Rpi6jchmvs54_9ls4LSr-0" value="t" style="shape=table;childLayout=tableLayout;rowLines=0;columnLines=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;fontStyle=0;align=center;rounded=0;" parent="aC73XDsIqKG3hUR2DNnT-1" vertex="1">
           <mxGeometry x="210" y="-1120" width="2040" height="990" as="geometry" />
         </mxCell>
         <mxCell id="Yr1gq1VHMnSCD-bMXYAA-21" style="swimlane;horizontal=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" parent="Rpi6jchmvs54_9ls4LSr-0" vertex="1">
@@ -187,6 +187,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="154" y="630" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="vEYwnT2NdRy8BUSH6Dxo-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Yr1gq1VHMnSCD-bMXYAA-23" source="pRcQAlQp7p_SNrFVslkO-10" target="pRcQAlQp7p_SNrFVslkO-42">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pRcQAlQp7p_SNrFVslkO-10" value="OpenflowConfigListener 등록" style="rounded=1;whiteSpace=wrap;html=1;" parent="Yr1gq1VHMnSCD-bMXYAA-23" vertex="1">
           <mxGeometry x="34" y="510" width="240" height="60" as="geometry" />
@@ -286,6 +289,36 @@
         <mxCell id="vEYwnT2NdRy8BUSH6Dxo-46" value="설정 Properties대로&amp;nbsp;&lt;br&gt;Queue, Thread, bulk size SET" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Yr1gq1VHMnSCD-bMXYAA-23">
           <mxGeometry x="34" y="630" width="240" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vEYwnT2NdRy8BUSH6Dxo-47" value="controller.setConfigParams&lt;br&gt;(context.getProperties())" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;align=center;" vertex="1" parent="Yr1gq1VHMnSCD-bMXYAA-23">
+          <mxGeometry x="1060" y="60" width="236" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vEYwnT2NdRy8BUSH6Dxo-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Yr1gq1VHMnSCD-bMXYAA-23" source="vEYwnT2NdRy8BUSH6Dxo-50" target="vEYwnT2NdRy8BUSH6Dxo-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vEYwnT2NdRy8BUSH6Dxo-50" value="Openflow Agent 등록&lt;br&gt;DriverService 등록&lt;br&gt;NetConfigService 등록" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Yr1gq1VHMnSCD-bMXYAA-23">
+          <mxGeometry x="1060" y="170" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vEYwnT2NdRy8BUSH6Dxo-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Yr1gq1VHMnSCD-bMXYAA-23" source="vEYwnT2NdRy8BUSH6Dxo-51" target="vEYwnT2NdRy8BUSH6Dxo-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vEYwnT2NdRy8BUSH6Dxo-51" value="시스템 시작 시간 초기화&lt;br&gt;컨트롤러 IP 캐시 초기화&lt;br&gt;cg = new DefaultChannelGroup()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Yr1gq1VHMnSCD-bMXYAA-23">
+          <mxGeometry x="1060" y="290" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vEYwnT2NdRy8BUSH6Dxo-55" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Yr1gq1VHMnSCD-bMXYAA-23" source="vEYwnT2NdRy8BUSH6Dxo-53" target="vEYwnT2NdRy8BUSH6Dxo-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vEYwnT2NdRy8BUSH6Dxo-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Yr1gq1VHMnSCD-bMXYAA-23" source="vEYwnT2NdRy8BUSH6Dxo-53" target="vEYwnT2NdRy8BUSH6Dxo-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vEYwnT2NdRy8BUSH6Dxo-53" value="TLS 활성화?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="Yr1gq1VHMnSCD-bMXYAA-23">
+          <mxGeometry x="1060" y="400" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vEYwnT2NdRy8BUSH6Dxo-54" value="initSsl()" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="Yr1gq1VHMnSCD-bMXYAA-23">
+          <mxGeometry x="1390" y="400" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vEYwnT2NdRy8BUSH6Dxo-57" value="OpenFlow Listener 등록&lt;br&gt;(INSERT, REMOVE, 기타, Exception echo 구현)&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Yr1gq1VHMnSCD-bMXYAA-23">
+          <mxGeometry x="1040" y="540" width="280" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="pRcQAlQp7p_SNrFVslkO-46" value="" style="endArrow=none;html=1;exitX=0.024;exitY=0.878;exitDx=0;exitDy=0;exitPerimeter=0;" parent="aC73XDsIqKG3hUR2DNnT-1" source="Yr1gq1VHMnSCD-bMXYAA-21" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="-300" as="sourcePoint" />
@@ -294,11 +327,13 @@
         </mxCell>
         <mxCell id="V5Hu6-mLKJl4xwlomV1q-13" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="aC73XDsIqKG3hUR2DNnT-1" source="V5Hu6-mLKJl4xwlomV1q-12" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1390" y="-340" as="targetPoint" />
+            <mxPoint x="1370" y="-340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vEYwnT2NdRy8BUSH6Dxo-0" value="event.subject()&lt;br&gt;instance of DeviceId" style="rhombus;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="aC73XDsIqKG3hUR2DNnT-1">
-          <mxGeometry x="1280" y="-480" width="220" height="80" as="geometry" />
+        <mxCell id="vEYwnT2NdRy8BUSH6Dxo-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="aC73XDsIqKG3hUR2DNnT-1" source="vEYwnT2NdRy8BUSH6Dxo-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1748" y="-910" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
