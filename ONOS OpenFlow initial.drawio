@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-25T15:41:24.213Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="EPp6h8R8RtB1PZicuFJc" version="14.1.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-12-25T17:05:45.359Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="-BzRw0ZZ4jB2QY4mR6iG" version="14.1.2" type="github" pages="5">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="976" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -404,7 +404,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qPp2XfGAAehy_coyhPgD" name="openflow-base2">
-    <mxGraphModel dx="1640" dy="1685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3267" dy="2717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="sDC5LX49YpHty5naH2eY-0" />
         <mxCell id="sDC5LX49YpHty5naH2eY-1" parent="sDC5LX49YpHty5naH2eY-0" />
@@ -523,6 +523,89 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1740" y="-599.9999999999999" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="eC3jgqrqnd5Fd9S9brlB" name="lldpProvider">
+    <mxGraphModel dx="1803" dy="1788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="SkbhwHbkE8fWBWR_ipCa-0" />
+        <mxCell id="SkbhwHbkE8fWBWR_ipCa-1" parent="SkbhwHbkE8fWBWR_ipCa-0" />
+        <mxCell id="ZHizI140NHLcBaaToUWF-0" value="openflow-base" style="shape=table;childLayout=tableLayout;rowLines=0;columnLines=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;fontStyle=0;align=center;rounded=0;" vertex="1" parent="SkbhwHbkE8fWBWR_ipCa-1">
+          <mxGeometry x="-800" y="-1030" width="1100" height="990" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHizI140NHLcBaaToUWF-1" style="swimlane;horizontal=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="ZHizI140NHLcBaaToUWF-0">
+          <mxGeometry y="40" width="1100" height="950" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHizI140NHLcBaaToUWF-2" value="LldpLinkProvider" style="swimlane;connectable=0;startSize=20;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;align=center;" vertex="1" parent="ZHizI140NHLcBaaToUWF-1">
+          <mxGeometry x="40" width="740" height="950" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHizI140NHLcBaaToUWF-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ZHizI140NHLcBaaToUWF-2" source="ZHizI140NHLcBaaToUWF-4" target="ZHizI140NHLcBaaToUWF-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHizI140NHLcBaaToUWF-4" value="app activated" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZHizI140NHLcBaaToUWF-2">
+          <mxGeometry x="40" y="50" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHizI140NHLcBaaToUWF-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ZHizI140NHLcBaaToUWF-2" source="ZHizI140NHLcBaaToUWF-6" target="ZHizI140NHLcBaaToUWF-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHizI140NHLcBaaToUWF-6" value="외부 Propertise 등록" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZHizI140NHLcBaaToUWF-2">
+          <mxGeometry x="40" y="160" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHizI140NHLcBaaToUWF-7" value="org.onosproject.provider.lldp로 등록" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZHizI140NHLcBaaToUWF-2">
+          <mxGeometry x="40" y="270" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHizI140NHLcBaaToUWF-8" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="ZHizI140NHLcBaaToUWF-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="149.5" y="330" as="sourcePoint" />
+            <mxPoint x="149.5" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZHizI140NHLcBaaToUWF-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ZHizI140NHLcBaaToUWF-2" source="ZHizI140NHLcBaaToUWF-10" target="ZHizI140NHLcBaaToUWF-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHizI140NHLcBaaToUWF-10" value="cfgListener 등록" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZHizI140NHLcBaaToUWF-2">
+          <mxGeometry x="30" y="380" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHizI140NHLcBaaToUWF-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ZHizI140NHLcBaaToUWF-2" source="ZHizI140NHLcBaaToUWF-44" target="ZHizI140NHLcBaaToUWF-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHizI140NHLcBaaToUWF-44" value="각 Factory 등록&lt;br&gt;ApplicationID - SuppressionConfig&lt;br&gt;DeviceID - LinkDiscoveryFromDevice&lt;br&gt;ConnectPoint - LinkDiscoveryFromPort" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZHizI140NHLcBaaToUWF-2">
+          <mxGeometry x="30" y="495" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHizI140NHLcBaaToUWF-46" value="SuppressionConfig&amp;nbsp;&lt;br&gt;1.&amp;nbsp; ApplicationID&lt;br&gt;2. DEVICE_TYPES&lt;br&gt;3. ANNOTATION" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="ZHizI140NHLcBaaToUWF-2">
+          <mxGeometry x="480" y="440" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHizI140NHLcBaaToUWF-47" value="LinkDiscoveryFromDeivce, Port&lt;br&gt;- ENABLED&lt;br&gt;- defaultValue" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="ZHizI140NHLcBaaToUWF-2">
+          <mxGeometry x="480" y="530" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHizI140NHLcBaaToUWF-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ZHizI140NHLcBaaToUWF-2" source="ZHizI140NHLcBaaToUWF-51" target="ZHizI140NHLcBaaToUWF-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHizI140NHLcBaaToUWF-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZHizI140NHLcBaaToUWF-2" source="ZHizI140NHLcBaaToUWF-51" target="ZHizI140NHLcBaaToUWF-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHizI140NHLcBaaToUWF-51" value="등록된 SuppresionConfig가 null?" style="rhombus;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="ZHizI140NHLcBaaToUWF-2">
+          <mxGeometry x="32.5" y="610" width="235" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHizI140NHLcBaaToUWF-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ZHizI140NHLcBaaToUWF-2" source="ZHizI140NHLcBaaToUWF-54" target="ZHizI140NHLcBaaToUWF-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHizI140NHLcBaaToUWF-54" value="cfg =&amp;nbsp;&lt;br&gt;device_Type = {ROADM, FIBER_SWITCH, OPTICAL_AMPLIFIER, OTN, OLS, TERMINAL_DEVICE}&lt;br&gt;annotation = MAP&amp;lt;NO_LLDP, ANY_VALUE&amp;gt;&lt;br&gt;로 Suppresion 초기화(Default)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZHizI140NHLcBaaToUWF-2">
+          <mxGeometry x="30" y="730" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHizI140NHLcBaaToUWF-65" value="cfgListener의 config를 cfg로 재설정" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="ZHizI140NHLcBaaToUWF-2">
+          <mxGeometry x="30" y="870" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHizI140NHLcBaaToUWF-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="ZHizI140NHLcBaaToUWF-2" source="ZHizI140NHLcBaaToUWF-67" target="ZHizI140NHLcBaaToUWF-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHizI140NHLcBaaToUWF-67" value="cfg = 등록된 SupressionConfig" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZHizI140NHLcBaaToUWF-2">
+          <mxGeometry x="300" y="730" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ZHizI140NHLcBaaToUWF-28" value="OpenflowControllerImpl.java" style="swimlane;connectable=0;startSize=20;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;align=center;" vertex="1" parent="ZHizI140NHLcBaaToUWF-1">
+          <mxGeometry x="780" width="320" height="950" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
