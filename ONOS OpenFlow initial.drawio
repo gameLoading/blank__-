@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-25T17:54:23.122Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="QiIfpIG8dfkw-DcDBSUc" version="14.1.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-12-25T18:21:59.773Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="3uFSp5abgaL-1lWjMpXQ" version="14.1.2" type="github" pages="5">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="976" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -528,18 +528,18 @@
     </mxGraphModel>
   </diagram>
   <diagram id="eC3jgqrqnd5Fd9S9brlB" name="lldpProvider">
-    <mxGraphModel dx="4670" dy="3503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1596" dy="1636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="SkbhwHbkE8fWBWR_ipCa-0" />
         <mxCell id="SkbhwHbkE8fWBWR_ipCa-1" parent="SkbhwHbkE8fWBWR_ipCa-0" />
-        <mxCell id="ZHizI140NHLcBaaToUWF-0" value="openflow-base" style="shape=table;childLayout=tableLayout;rowLines=0;columnLines=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;fontStyle=0;align=center;rounded=0;" vertex="1" parent="SkbhwHbkE8fWBWR_ipCa-1">
-          <mxGeometry x="-760" y="-1130" width="3230" height="1290" as="geometry" />
+        <mxCell id="ZHizI140NHLcBaaToUWF-0" value="LLDP Provider" style="shape=table;childLayout=tableLayout;rowLines=0;columnLines=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;fontStyle=0;align=center;rounded=0;" vertex="1" parent="SkbhwHbkE8fWBWR_ipCa-1">
+          <mxGeometry x="-760" y="-1150" width="3230" height="1290" as="geometry" />
         </mxCell>
         <mxCell id="ZHizI140NHLcBaaToUWF-1" style="swimlane;horizontal=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="ZHizI140NHLcBaaToUWF-0">
           <mxGeometry y="40" width="3230" height="1250" as="geometry" />
         </mxCell>
         <mxCell id="ZHizI140NHLcBaaToUWF-2" value="LldpLinkProvider" style="swimlane;connectable=0;startSize=20;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;align=center;" vertex="1" parent="ZHizI140NHLcBaaToUWF-1">
-          <mxGeometry x="40" width="2180" height="1250" as="geometry" />
+          <mxGeometry x="40" width="2940" height="1250" as="geometry" />
         </mxCell>
         <mxCell id="ZHizI140NHLcBaaToUWF-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ZHizI140NHLcBaaToUWF-2" source="ZHizI140NHLcBaaToUWF-4" target="ZHizI140NHLcBaaToUWF-6">
           <mxGeometry relative="1" as="geometry" />
@@ -726,8 +726,67 @@
         <mxCell id="vvLd60g7PyFA4-DbAIz2-121" value="requestIntercepts()" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;shadow=0;align=center;" vertex="1" parent="ZHizI140NHLcBaaToUWF-2">
           <mxGeometry x="1419" y="1100" width="232" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vvLd60g7PyFA4-DbAIz2-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ZHizI140NHLcBaaToUWF-2" source="vvLd60g7PyFA4-DbAIz2-123" target="vvLd60g7PyFA4-DbAIz2-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vvLd60g7PyFA4-DbAIz2-123" value="loadDevices()" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;shadow=0;align=center;" vertex="1" parent="ZHizI140NHLcBaaToUWF-2">
+          <mxGeometry x="1790" y="100" width="208" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vvLd60g7PyFA4-DbAIz2-124" value="lldpProvider 및 deviceService가&lt;br&gt;활성화?&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=0;align=center;" vertex="1" parent="ZHizI140NHLcBaaToUWF-2">
+          <mxGeometry x="1789" y="220" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vvLd60g7PyFA4-DbAIz2-129" value="for d : 모든 장비 updateDevice(d).ifPresent(ld&lt;br&gt;-&amp;gt;updatePorts(d, d.id())))&lt;br&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;shadow=0;align=center;" vertex="1" parent="ZHizI140NHLcBaaToUWF-2">
+          <mxGeometry x="1790" y="360" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vvLd60g7PyFA4-DbAIz2-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ZHizI140NHLcBaaToUWF-2" source="vvLd60g7PyFA4-DbAIz2-130" target="vvLd60g7PyFA4-DbAIz2-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vvLd60g7PyFA4-DbAIz2-130" value="updateDevice(device)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;shadow=0;align=center;" vertex="1" parent="ZHizI140NHLcBaaToUWF-2">
+          <mxGeometry x="2130" y="100" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vvLd60g7PyFA4-DbAIz2-131" value="해당 장비가의 master가&amp;nbsp;&lt;br&gt;자신인가?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=0;align=center;" vertex="1" parent="ZHizI140NHLcBaaToUWF-2">
+          <mxGeometry x="2130" y="235" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vvLd60g7PyFA4-DbAIz2-134" value="device가 linkTimes에서 &lt;br&gt;link의 목적지 디바이스라면&lt;br&gt;updateLinks에 해당 링크 추가" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZHizI140NHLcBaaToUWF-2">
+          <mxGeometry x="2130" y="390" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vvLd60g7PyFA4-DbAIz2-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZHizI140NHLcBaaToUWF-2" source="vvLd60g7PyFA4-DbAIz2-138" target="vvLd60g7PyFA4-DbAIz2-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vvLd60g7PyFA4-DbAIz2-138" value="updateLinks에 있는 모든 중복 링크를&lt;br&gt;linkTimes에서 제거" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZHizI140NHLcBaaToUWF-2">
+          <mxGeometry x="2130" y="510" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vvLd60g7PyFA4-DbAIz2-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ZHizI140NHLcBaaToUWF-2" source="vvLd60g7PyFA4-DbAIz2-139" target="vvLd60g7PyFA4-DbAIz2-142">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vvLd60g7PyFA4-DbAIz2-139" value="removeDevice(device)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;shadow=0;align=center;" vertex="1" parent="ZHizI140NHLcBaaToUWF-2">
+          <mxGeometry x="2130" y="640" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vvLd60g7PyFA4-DbAIz2-142" value="return Optional.empty()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZHizI140NHLcBaaToUWF-2">
+          <mxGeometry x="2130" y="780" width="210" height="50" as="geometry" />
+        </mxCell>
         <mxCell id="ZHizI140NHLcBaaToUWF-28" value="OpenflowControllerImpl.java" style="swimlane;connectable=0;startSize=20;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;align=center;" vertex="1" parent="ZHizI140NHLcBaaToUWF-1">
-          <mxGeometry x="2220" width="1010" height="1250" as="geometry" />
+          <mxGeometry x="2980" width="250" height="1250" as="geometry" />
+        </mxCell>
+        <mxCell id="vvLd60g7PyFA4-DbAIz2-128" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="SkbhwHbkE8fWBWR_ipCa-1" source="vvLd60g7PyFA4-DbAIz2-124">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1174" y="-750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vvLd60g7PyFA4-DbAIz2-133" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="SkbhwHbkE8fWBWR_ipCa-1" source="vvLd60g7PyFA4-DbAIz2-131">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1515" y="-720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vvLd60g7PyFA4-DbAIz2-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="SkbhwHbkE8fWBWR_ipCa-1" source="vvLd60g7PyFA4-DbAIz2-129">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1175" y="-620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vvLd60g7PyFA4-DbAIz2-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="SkbhwHbkE8fWBWR_ipCa-1" source="vvLd60g7PyFA4-DbAIz2-134">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1515" y="-600" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
