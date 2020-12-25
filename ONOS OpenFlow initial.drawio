@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-25T11:14:36.399Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="eodY4pWS1ZZhXNDjuEpP" version="13.9.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-12-25T11:34:13.356Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="XIcTkFls8ppgfzxWGehd" version="13.9.9" type="github" pages="3">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="852" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -116,10 +116,10 @@
         <mxCell id="aC73XDsIqKG3hUR2DNnT-0" />
         <mxCell id="aC73XDsIqKG3hUR2DNnT-1" parent="aC73XDsIqKG3hUR2DNnT-0" />
         <mxCell id="Rpi6jchmvs54_9ls4LSr-0" value="Openflow-base App" style="shape=table;childLayout=tableLayout;rowLines=0;columnLines=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;fontStyle=0;align=center;rounded=0;" parent="aC73XDsIqKG3hUR2DNnT-1" vertex="1">
-          <mxGeometry x="40" y="-1120" width="1750" height="990" as="geometry" />
+          <mxGeometry x="230" y="-1120" width="1320" height="990" as="geometry" />
         </mxCell>
         <mxCell id="Yr1gq1VHMnSCD-bMXYAA-21" style="swimlane;horizontal=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" parent="Rpi6jchmvs54_9ls4LSr-0" vertex="1">
-          <mxGeometry y="40" width="1750" height="950" as="geometry" />
+          <mxGeometry y="40" width="1320" height="950" as="geometry" />
         </mxCell>
         <mxCell id="Yr1gq1VHMnSCD-bMXYAA-22" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 700; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255); display: inline; float: none;&quot;&gt;OpenFlowClassifierManager.java&lt;/span&gt;&#xa;&#xa;" style="swimlane;connectable=0;startSize=20;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;align=center;" parent="Yr1gq1VHMnSCD-bMXYAA-21" vertex="1">
           <mxGeometry x="40" width="320" height="950" as="geometry" />
@@ -152,7 +152,7 @@
           <mxGeometry x="35" y="856" width="250" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Yr1gq1VHMnSCD-bMXYAA-23" value="OpenflowControllerImpl.java" style="swimlane;connectable=0;startSize=20;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;align=center;" parent="Yr1gq1VHMnSCD-bMXYAA-21" vertex="1">
-          <mxGeometry x="360" width="1390" height="950" as="geometry" />
+          <mxGeometry x="360" width="960" height="950" as="geometry" />
         </mxCell>
         <mxCell id="pRcQAlQp7p_SNrFVslkO-3" value="app activated" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Yr1gq1VHMnSCD-bMXYAA-23">
           <mxGeometry x="44" y="60" width="220" height="60" as="geometry" />
@@ -203,16 +203,60 @@
         <mxCell id="pRcQAlQp7p_SNrFVslkO-42" value="Openflow Config(상태) 이벤트 발생" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Yr1gq1VHMnSCD-bMXYAA-23">
           <mxGeometry x="390" y="60" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pRcQAlQp7p_SNrFVslkO-44" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Yr1gq1VHMnSCD-bMXYAA-23">
-          <mxGeometry x="390" y="170" width="240" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="pRcQAlQp7p_SNrFVslkO-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Yr1gq1VHMnSCD-bMXYAA-23" source="pRcQAlQp7p_SNrFVslkO-42" target="pRcQAlQp7p_SNrFVslkO-44">
+        <mxCell id="pRcQAlQp7p_SNrFVslkO-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Yr1gq1VHMnSCD-bMXYAA-23" source="pRcQAlQp7p_SNrFVslkO-42">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="510" y="160" as="targetPoint" />
+            <mxPoint x="510" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pRcQAlQp7p_SNrFVslkO-48" value="[OpenFlow Device Config]&lt;br&gt;1. DeviceID&lt;br&gt;2. Client key alias (장비의 별명)" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="Yr1gq1VHMnSCD-bMXYAA-23">
           <mxGeometry x="24" y="854" width="250" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pRcQAlQp7p_SNrFVslkO-51" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Yr1gq1VHMnSCD-bMXYAA-23" source="pRcQAlQp7p_SNrFVslkO-49" target="pRcQAlQp7p_SNrFVslkO-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pRcQAlQp7p_SNrFVslkO-55" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Yr1gq1VHMnSCD-bMXYAA-23" source="pRcQAlQp7p_SNrFVslkO-49" target="pRcQAlQp7p_SNrFVslkO-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pRcQAlQp7p_SNrFVslkO-49" value="이전 config가 존재?" style="rhombus;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="Yr1gq1VHMnSCD-bMXYAA-23">
+          <mxGeometry x="400" y="170" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pRcQAlQp7p_SNrFVslkO-50" value="prevConfig = event,prevConfig().get()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Yr1gq1VHMnSCD-bMXYAA-23">
+          <mxGeometry x="690" y="180" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pRcQAlQp7p_SNrFVslkO-92" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Yr1gq1VHMnSCD-bMXYAA-23" source="pRcQAlQp7p_SNrFVslkO-54" target="pRcQAlQp7p_SNrFVslkO-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pRcQAlQp7p_SNrFVslkO-94" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Yr1gq1VHMnSCD-bMXYAA-23" source="pRcQAlQp7p_SNrFVslkO-54" target="pRcQAlQp7p_SNrFVslkO-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pRcQAlQp7p_SNrFVslkO-54" value="현재 config가 존재?" style="rhombus;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="Yr1gq1VHMnSCD-bMXYAA-23">
+          <mxGeometry x="400" y="320" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pRcQAlQp7p_SNrFVslkO-89" value="newConfig = event.config().get()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Yr1gq1VHMnSCD-bMXYAA-23">
+          <mxGeometry x="690" y="330" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pRcQAlQp7p_SNrFVslkO-137" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Yr1gq1VHMnSCD-bMXYAA-23" source="pRcQAlQp7p_SNrFVslkO-93">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="496" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pRcQAlQp7p_SNrFVslkO-93" value="prevConfig 및 newConfig가&lt;br&gt;null이 아니라면?" style="rhombus;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="Yr1gq1VHMnSCD-bMXYAA-23">
+          <mxGeometry x="400" y="456" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pRcQAlQp7p_SNrFVslkO-134" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Yr1gq1VHMnSCD-bMXYAA-23" source="pRcQAlQp7p_SNrFVslkO-50" target="pRcQAlQp7p_SNrFVslkO-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="460" as="sourcePoint" />
+            <mxPoint x="690" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pRcQAlQp7p_SNrFVslkO-135" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Yr1gq1VHMnSCD-bMXYAA-23" source="pRcQAlQp7p_SNrFVslkO-89">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="376" as="sourcePoint" />
+            <mxPoint x="510" y="456" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pRcQAlQp7p_SNrFVslkO-139" value="newConfig와 preConfig가&lt;br&gt;같다면?" style="rhombus;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="Yr1gq1VHMnSCD-bMXYAA-23">
+          <mxGeometry x="690" y="456" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pRcQAlQp7p_SNrFVslkO-46" value="" style="endArrow=none;html=1;exitX=0.024;exitY=0.878;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="aC73XDsIqKG3hUR2DNnT-1" source="Yr1gq1VHMnSCD-bMXYAA-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
