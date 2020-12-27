@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-27T15:09:23.535Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="XWIS6keeS62UNVND38Uh" version="14.1.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-12-27T15:09:41.716Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="jmpZFRzXskgyxSCisUga" version="14.1.2" type="github" pages="6">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="초안 교환">
     <mxGraphModel dx="2044" dy="1288" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -194,207 +194,207 @@
         <mxCell id="6C3MgPUXNdswaxsrxd5J-0" />
         <mxCell id="6C3MgPUXNdswaxsrxd5J-1" parent="6C3MgPUXNdswaxsrxd5J-0" />
         <mxCell id="PFhAU-Phulyg9WrCjoMu-0" value="스위치 엔지니어" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;shadow=0;strokeWidth=1;rounded=1;fontSize=11;" vertex="1" parent="6C3MgPUXNdswaxsrxd5J-1">
-          <mxGeometry x="20" y="130" width="100" height="941" as="geometry" />
+          <mxGeometry x="20" y="137" width="100" height="941" as="geometry" />
         </mxCell>
         <mxCell id="PFhAU-Phulyg9WrCjoMu-1" value="SDN 스위치" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;shadow=0;strokeWidth=1;rounded=1;fontSize=11;" vertex="1" parent="6C3MgPUXNdswaxsrxd5J-1">
-          <mxGeometry x="240" y="131.09" width="100" height="943.91" as="geometry" />
+          <mxGeometry x="240" y="138.09" width="100" height="943.91" as="geometry" />
         </mxCell>
         <mxCell id="PFhAU-Phulyg9WrCjoMu-2" value="sw2" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;align=center;horizontal=0;" vertex="1" parent="PFhAU-Phulyg9WrCjoMu-1">
           <mxGeometry x="40" y="641.91" width="20" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PFhAU-Phulyg9WrCjoMu-3" value="SDN 컨트롤러" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;shadow=0;strokeWidth=1;rounded=1;fontSize=11;" vertex="1" parent="6C3MgPUXNdswaxsrxd5J-1">
-          <mxGeometry x="480" y="131.09" width="100" height="939.91" as="geometry" />
+          <mxGeometry x="480" y="138.09" width="100" height="939.91" as="geometry" />
         </mxCell>
         <mxCell id="PFhAU-Phulyg9WrCjoMu-4" value="컨트롤러 엔지니어" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;shadow=0;strokeWidth=1;rounded=1;fontSize=11;" vertex="1" parent="6C3MgPUXNdswaxsrxd5J-1">
-          <mxGeometry x="710" y="131.09" width="108.61" height="932.91" as="geometry" />
+          <mxGeometry x="710" y="138.09" width="108.61" height="932.91" as="geometry" />
         </mxCell>
         <mxCell id="PFhAU-Phulyg9WrCjoMu-5" value="2. 컨트롤러 ip/port 지정" style="endArrow=classic;html=1;entryX=0.482;entryY=0.234;entryDx=0;entryDy=0;entryPerimeter=0;shadow=0;curved=1;fontSize=10;" edge="1" parent="6C3MgPUXNdswaxsrxd5J-1">
           <mxGeometry x="0.0114" y="11" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="69.99999999999989" y="192.08999999999992" as="sourcePoint" />
-            <mxPoint x="289.20000000000016" y="192.28999999999996" as="targetPoint" />
+            <mxPoint x="69.99999999999989" y="199.08999999999992" as="sourcePoint" />
+            <mxPoint x="289.20000000000016" y="199.28999999999996" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PFhAU-Phulyg9WrCjoMu-7" value="openflow App" style="whiteSpace=wrap;html=1;rounded=0;glass=0;horizontal=0;align=center;arcSize=24;" vertex="1" parent="6C3MgPUXNdswaxsrxd5J-1">
-          <mxGeometry x="520" y="191.08999999999997" width="19" height="318.91" as="geometry" />
+          <mxGeometry x="520" y="198.08999999999997" width="19" height="318.91" as="geometry" />
         </mxCell>
         <mxCell id="PFhAU-Phulyg9WrCjoMu-8" value="1. Openflow App 실행 명령" style="endArrow=classic;html=1;curved=1;entryX=1;entryY=0;entryDx=0;entryDy=0;fontSize=10;" edge="1" source="PFhAU-Phulyg9WrCjoMu-4" target="PFhAU-Phulyg9WrCjoMu-7" parent="6C3MgPUXNdswaxsrxd5J-1">
           <mxGeometry x="-0.0019" y="-9" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="769.6399999999999" y="240.59000000000003" as="sourcePoint" />
-            <mxPoint x="529.9285714285713" y="240.59000000000003" as="targetPoint" />
+            <mxPoint x="769.6399999999999" y="247.59000000000003" as="sourcePoint" />
+            <mxPoint x="529.9285714285713" y="247.59000000000003" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PFhAU-Phulyg9WrCjoMu-11" value="5. FeaturesRequset" style="endArrow=classic;html=1;exitX=-0.094;exitY=0.435;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="6C3MgPUXNdswaxsrxd5J-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="518.2139999999998" y="287.6400000000001" as="sourcePoint" />
-            <mxPoint x="289.81034482758594" y="287.6400000000001" as="targetPoint" />
+            <mxPoint x="518.2139999999998" y="294.6400000000001" as="sourcePoint" />
+            <mxPoint x="289.81034482758594" y="294.6400000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PFhAU-Phulyg9WrCjoMu-12" value="6. Hello" style="endArrow=classic;html=1;dashed=1;fontSize=10;entryX=-0.022;entryY=0.526;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="6C3MgPUXNdswaxsrxd5J-1">
           <mxGeometry x="-0.0421" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="289.41999999999996" y="328.34000000000015" as="sourcePoint" />
-            <mxPoint x="520.0019999999998" y="328.22" as="targetPoint" />
+            <mxPoint x="289.41999999999996" y="335.34000000000015" as="sourcePoint" />
+            <mxPoint x="520.0019999999998" y="335.22" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PFhAU-Phulyg9WrCjoMu-13" value="4. Hello" style="endArrow=classic;html=1;dashed=1;fontSize=10;entryX=0;entryY=0.42;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="6C3MgPUXNdswaxsrxd5J-1">
           <mxGeometry x="-0.0421" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="289.81034482758594" y="250.6300000000001" as="sourcePoint" />
-            <mxPoint x="519.9999999999999" y="250.6300000000001" as="targetPoint" />
+            <mxPoint x="289.81034482758594" y="257.6300000000001" as="sourcePoint" />
+            <mxPoint x="519.9999999999999" y="257.6300000000001" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PFhAU-Phulyg9WrCjoMu-14" value="지원 가능한 가장 높은 OpenFlow 버전 송신" style="shape=callout;html=1;perimeter=calloutPerimeter;rounded=0;shadow=0;align=center;size=20;position=0.25;rotation=90;verticalAlign=middle;horizontal=0;whiteSpace=wrap;direction=east;flipV=1;flipH=1;" vertex="1" parent="6C3MgPUXNdswaxsrxd5J-1">
-          <mxGeometry x="174.39" y="171.02999999999997" width="40" height="160" as="geometry" />
+          <mxGeometry x="174.39" y="178.02999999999997" width="40" height="160" as="geometry" />
         </mxCell>
         <mxCell id="PFhAU-Phulyg9WrCjoMu-15" value="서로 가장 낮은 버전으로 통신 시작" style="shape=callout;html=1;perimeter=calloutPerimeter;rounded=0;shadow=0;align=center;size=20;position=0.25;rotation=90;verticalAlign=middle;horizontal=0;whiteSpace=wrap;direction=east;flipV=1;flipH=1;" vertex="1" parent="6C3MgPUXNdswaxsrxd5J-1">
-          <mxGeometry x="173.62" y="246.84000000000003" width="40" height="163" as="geometry" />
+          <mxGeometry x="173.62" y="253.84000000000003" width="40" height="163" as="geometry" />
         </mxCell>
         <mxCell id="PFhAU-Phulyg9WrCjoMu-16" value="지원 가능한 가장 높은 OpenFlow 버전 송신" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=0;shadow=0;align=center;size=20;position=0.25;rotation=90;verticalAlign=middle;horizontal=0;" vertex="1" parent="6C3MgPUXNdswaxsrxd5J-1">
-          <mxGeometry x="606.5" y="207.84000000000003" width="50" height="163" as="geometry" />
+          <mxGeometry x="606.5" y="214.84000000000003" width="50" height="163" as="geometry" />
         </mxCell>
         <mxCell id="PFhAU-Phulyg9WrCjoMu-17" value="[기능 지원 여부 응답]&lt;br&gt;- Flow 통계(o)&lt;br&gt;-Table 통계(o)&lt;br&gt;- Port 통계(o)&lt;br&gt;- Group 통계(x)&lt;br&gt;- IP fragment reassemble 여부(x)&lt;br&gt;- Queue 통계 (x)&lt;br&gt;- Openflow 미지원 포트 (x)" style="shape=callout;html=1;perimeter=calloutPerimeter;rounded=0;shadow=0;align=left;size=19;position=0.75;rotation=90;verticalAlign=middle;horizontal=0;whiteSpace=wrap;direction=east;flipV=1;flipH=1;position2=0.89;base=20;" vertex="1" parent="6C3MgPUXNdswaxsrxd5J-1">
-          <mxGeometry x="124.32" y="354.84000000000003" width="142.59" height="167" as="geometry" />
+          <mxGeometry x="124.32" y="361.84000000000003" width="142.59" height="167" as="geometry" />
         </mxCell>
         <mxCell id="PFhAU-Phulyg9WrCjoMu-18" value="7. FeatureReply" style="endArrow=classic;html=1;dashed=1;fontSize=10;entryX=-0.022;entryY=0.526;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="6C3MgPUXNdswaxsrxd5J-1">
           <mxGeometry x="-0.0421" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="289.41999999999996" y="371.46000000000004" as="sourcePoint" />
-            <mxPoint x="520.0019999999998" y="371.34000000000015" as="targetPoint" />
+            <mxPoint x="289.41999999999996" y="378.46000000000004" as="sourcePoint" />
+            <mxPoint x="520.0019999999998" y="378.34000000000015" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PFhAU-Phulyg9WrCjoMu-19" value="8. MultiipartRequest" style="endArrow=classic;html=1;exitX=-0.094;exitY=0.435;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="6C3MgPUXNdswaxsrxd5J-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="520.0039999999998" y="416.68000000000006" as="sourcePoint" />
-            <mxPoint x="291.6003448275859" y="416.68000000000006" as="targetPoint" />
+            <mxPoint x="520.0039999999998" y="423.68000000000006" as="sourcePoint" />
+            <mxPoint x="291.6003448275859" y="423.68000000000006" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PFhAU-Phulyg9WrCjoMu-20" value="9. MultipartReply" style="endArrow=classic;html=1;dashed=1;fontSize=10;entryX=-0.022;entryY=0.526;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="6C3MgPUXNdswaxsrxd5J-1">
           <mxGeometry x="-0.0421" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="289.41999999999996" y="461.46000000000004" as="sourcePoint" />
-            <mxPoint x="520.0019999999998" y="461.34000000000015" as="targetPoint" />
+            <mxPoint x="289.41999999999996" y="468.46000000000004" as="sourcePoint" />
+            <mxPoint x="520.0019999999998" y="468.34000000000015" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PFhAU-Phulyg9WrCjoMu-21" value="기능에서 지원했던 정보 요청" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=0;shadow=0;align=center;size=20;position=0.25;rotation=90;verticalAlign=middle;horizontal=0;" vertex="1" parent="6C3MgPUXNdswaxsrxd5J-1">
-          <mxGeometry x="622.78" y="280.00000000000006" width="50" height="189.13" as="geometry" />
+          <mxGeometry x="622.78" y="287.00000000000006" width="50" height="189.13" as="geometry" />
         </mxCell>
         <mxCell id="PFhAU-Phulyg9WrCjoMu-22" value="위 정보 요청에 대한 응답" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=0;shadow=0;align=center;size=20;position=0.15;rotation=90;verticalAlign=middle;horizontal=0;base=20;" vertex="1" parent="6C3MgPUXNdswaxsrxd5J-1">
-          <mxGeometry x="622.7800000000001" y="370.84" width="50" height="189.41" as="geometry" />
+          <mxGeometry x="622.7800000000001" y="377.84" width="50" height="189.41" as="geometry" />
         </mxCell>
         <mxCell id="PFhAU-Phulyg9WrCjoMu-23" value="lldpprovider App" style="whiteSpace=wrap;html=1;rounded=0;glass=0;horizontal=0;align=center;arcSize=24;" vertex="1" parent="6C3MgPUXNdswaxsrxd5J-1">
-          <mxGeometry x="520.5" y="523" width="19" height="310" as="geometry" />
+          <mxGeometry x="520.5" y="530" width="19" height="310" as="geometry" />
         </mxCell>
         <mxCell id="PFhAU-Phulyg9WrCjoMu-24" value="lldpprovider App 실행 명령" style="endArrow=classic;html=1;curved=1;entryX=1;entryY=0;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="6C3MgPUXNdswaxsrxd5J-1">
           <mxGeometry x="-0.0019" y="-9" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="764.61" y="532.91" as="sourcePoint" />
-            <mxPoint x="539.4999999999999" y="533.0000000000001" as="targetPoint" />
+            <mxPoint x="764.61" y="539.91" as="sourcePoint" />
+            <mxPoint x="539.4999999999999" y="540.0000000000001" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PFhAU-Phulyg9WrCjoMu-25" value="FlowMod(BARRIER_REQUEST)" style="endArrow=classic;html=1;curved=1;entryX=1;entryY=0;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="6C3MgPUXNdswaxsrxd5J-1">
           <mxGeometry x="-0.0412" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="519.9999999999999" y="573.0000000000001" as="sourcePoint" />
-            <mxPoint x="289.4999999999999" y="573.0000000000001" as="targetPoint" />
+            <mxPoint x="519.9999999999999" y="580.0000000000001" as="sourcePoint" />
+            <mxPoint x="289.4999999999999" y="580.0000000000001" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PFhAU-Phulyg9WrCjoMu-26" value="FlowMod(BARRIER_REPLY)" style="endArrow=classic;html=1;curved=1;fontSize=10;exitX=0.525;exitY=0.734;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="6C3MgPUXNdswaxsrxd5J-1">
           <mxGeometry x="0.0476" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="292.5" y="632.05994" as="sourcePoint" />
-            <mxPoint x="519.9999999999999" y="632.0000000000001" as="targetPoint" />
+            <mxPoint x="292.5" y="639.05994" as="sourcePoint" />
+            <mxPoint x="519.9999999999999" y="639.0000000000001" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PFhAU-Phulyg9WrCjoMu-27" value="모든 SDN 스위치에 ARP패킷은 컨트롤러로 전송하도록 Flow install 요청&amp;nbsp;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=0;shadow=0;align=center;size=20;position=0.15;rotation=90;verticalAlign=middle;horizontal=0;base=20;" vertex="1" parent="6C3MgPUXNdswaxsrxd5J-1">
-          <mxGeometry x="616" y="817" width="50" height="190" as="geometry" />
+          <mxGeometry x="616" y="824" width="50" height="190" as="geometry" />
         </mxCell>
         <mxCell id="PFhAU-Phulyg9WrCjoMu-28" value="Flow install에 대한 Ack" style="shape=callout;html=1;perimeter=calloutPerimeter;rounded=0;shadow=0;align=center;size=20;position=0.25;rotation=90;verticalAlign=middle;horizontal=0;whiteSpace=wrap;direction=east;flipV=1;flipH=1;" vertex="1" parent="6C3MgPUXNdswaxsrxd5J-1">
-          <mxGeometry x="173.62" y="553" width="40" height="163" as="geometry" />
+          <mxGeometry x="173.62" y="560" width="40" height="163" as="geometry" />
         </mxCell>
         <mxCell id="PFhAU-Phulyg9WrCjoMu-29" value="모든 포트로 sw1에 대한 정보가 포함된 LLDP 패킷을 PacketOut" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=0;shadow=0;align=center;size=20;position=0.15;rotation=90;verticalAlign=middle;horizontal=0;base=20;" vertex="1" parent="6C3MgPUXNdswaxsrxd5J-1">
-          <mxGeometry x="620" y="615" width="50" height="190.5" as="geometry" />
+          <mxGeometry x="620" y="622" width="50" height="190.5" as="geometry" />
         </mxCell>
         <mxCell id="PFhAU-Phulyg9WrCjoMu-30" value="LLDP를 모든 포트로 &lt;br&gt;전송" style="shape=callout;html=1;perimeter=calloutPerimeter;rounded=0;shadow=0;align=center;size=20;position=0.25;rotation=90;verticalAlign=middle;horizontal=0;whiteSpace=wrap;direction=east;flipV=1;flipH=1;" vertex="1" parent="6C3MgPUXNdswaxsrxd5J-1">
-          <mxGeometry x="150" y="631.5" width="40" height="163" as="geometry" />
+          <mxGeometry x="150" y="638.5" width="40" height="163" as="geometry" />
         </mxCell>
         <mxCell id="PFhAU-Phulyg9WrCjoMu-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="PFhAU-Phulyg9WrCjoMu-32" target="PFhAU-Phulyg9WrCjoMu-2" parent="6C3MgPUXNdswaxsrxd5J-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="260" y="713" />
-              <mxPoint x="260" y="803.0000000000001" />
+              <mxPoint x="260" y="720" />
+              <mxPoint x="260" y="810.0000000000001" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="PFhAU-Phulyg9WrCjoMu-32" value="sw1" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;align=center;horizontal=0;" vertex="1" parent="6C3MgPUXNdswaxsrxd5J-1">
-          <mxGeometry x="280" y="683" width="20" height="60" as="geometry" />
+          <mxGeometry x="280" y="690" width="20" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PFhAU-Phulyg9WrCjoMu-33" value="PacketOut" style="endArrow=classic;html=1;" edge="1" parent="6C3MgPUXNdswaxsrxd5J-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="517.9999999999999" y="710.0000000000001" as="sourcePoint" />
-            <mxPoint x="299.9999999999999" y="710.0000000000001" as="targetPoint" />
+            <mxPoint x="517.9999999999999" y="717.0000000000001" as="sourcePoint" />
+            <mxPoint x="299.9999999999999" y="717.0000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PFhAU-Phulyg9WrCjoMu-34" value="적용된 Flow Rule에 따라 LLDP 패킷을 Controller로 전송" style="shape=callout;html=1;perimeter=calloutPerimeter;rounded=0;shadow=0;align=center;size=20;position=0.25;rotation=90;verticalAlign=middle;horizontal=0;whiteSpace=wrap;direction=east;flipV=1;flipH=1;" vertex="1" parent="6C3MgPUXNdswaxsrxd5J-1">
-          <mxGeometry x="145" y="721.0000000000001" width="50" height="163" as="geometry" />
+          <mxGeometry x="145" y="728.0000000000001" width="50" height="163" as="geometry" />
         </mxCell>
         <mxCell id="PFhAU-Phulyg9WrCjoMu-35" value="PacketIn" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="PFhAU-Phulyg9WrCjoMu-2" parent="6C3MgPUXNdswaxsrxd5J-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="518.9999999999999" y="803.0000000000001" as="targetPoint" />
+            <mxPoint x="518.9999999999999" y="810.0000000000001" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="519" y="803.0000000000001" />
+              <mxPoint x="519" y="810.0000000000001" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="PFhAU-Phulyg9WrCjoMu-36" value="sw1의 LLDP 정보 + LLDP를 받은 장비 및 수신 포트 정보 획득&lt;br&gt;(sw2의 수신 포트에는 sw1이 있다고 판단)" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=0;shadow=0;align=center;size=20;position=0.15;rotation=90;verticalAlign=middle;horizontal=0;base=23;" vertex="1" parent="6C3MgPUXNdswaxsrxd5J-1">
-          <mxGeometry x="613.07" y="705.07" width="64.87" height="194.88" as="geometry" />
+          <mxGeometry x="613.07" y="712.07" width="64.87" height="194.88" as="geometry" />
         </mxCell>
         <mxCell id="PFhAU-Phulyg9WrCjoMu-37" value="&lt;h1&gt;ONOS Openflow 작동과정 및 토폴로지 탐색&lt;/h1&gt;&lt;p&gt;Openflow&amp;nbsp; 프로토콜의 Session 성립&amp;nbsp; ~ 정보 획득, LLDP를 이용한 토폴로지 탐색 과정&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="6C3MgPUXNdswaxsrxd5J-1">
           <mxGeometry x="23" y="40" width="655.61" height="120" as="geometry" />
         </mxCell>
         <mxCell id="PFhAU-Phulyg9WrCjoMu-38" value="3. TCP 연결" style="endArrow=classic;startArrow=classic;html=1;entryX=-0.113;entryY=0.066;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="6C3MgPUXNdswaxsrxd5J-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="290" y="211" as="sourcePoint" />
-            <mxPoint x="517.8530000000001" y="211.16999999999996" as="targetPoint" />
+            <mxPoint x="290" y="218" as="sourcePoint" />
+            <mxPoint x="517.8530000000001" y="218.16999999999996" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="w8KFLWZFro8CPM4GHCP7-1" value="lhostprovider App" style="whiteSpace=wrap;html=1;rounded=0;glass=0;horizontal=0;align=center;arcSize=24;" vertex="1" parent="6C3MgPUXNdswaxsrxd5J-1">
-          <mxGeometry x="520" y="846" width="19" height="216" as="geometry" />
+          <mxGeometry x="520" y="853" width="19" height="216" as="geometry" />
         </mxCell>
         <mxCell id="w8KFLWZFro8CPM4GHCP7-3" value="hostprovider App 실행 명령" style="endArrow=classic;html=1;curved=1;entryX=1;entryY=0;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="6C3MgPUXNdswaxsrxd5J-1">
           <mxGeometry x="-0.0019" y="-9" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="764.1100000000001" y="859.9999999999998" as="sourcePoint" />
-            <mxPoint x="539" y="860.0899999999999" as="targetPoint" />
+            <mxPoint x="764.1100000000001" y="866.9999999999998" as="sourcePoint" />
+            <mxPoint x="539" y="867.0899999999999" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="w8KFLWZFro8CPM4GHCP7-5" value="FlowMod(BARRIER_REQUEST)" style="endArrow=classic;html=1;curved=1;entryX=1;entryY=0;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="6C3MgPUXNdswaxsrxd5J-1">
           <mxGeometry x="-0.0412" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="520" y="913" as="sourcePoint" />
-            <mxPoint x="289.5" y="913" as="targetPoint" />
+            <mxPoint x="520" y="920" as="sourcePoint" />
+            <mxPoint x="289.5" y="920" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="w8KFLWZFro8CPM4GHCP7-6" value="FlowMod(BARRIER_REPLY)" style="endArrow=classic;html=1;curved=1;fontSize=10;" edge="1" parent="6C3MgPUXNdswaxsrxd5J-1">
           <mxGeometry x="0.0476" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="293" y="972" as="sourcePoint" />
-            <mxPoint x="520" y="972" as="targetPoint" />
+            <mxPoint x="293" y="979" as="sourcePoint" />
+            <mxPoint x="520" y="979" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="w8KFLWZFro8CPM4GHCP7-11" value="Flow install에 대한 Ack" style="shape=callout;html=1;perimeter=calloutPerimeter;rounded=0;shadow=0;align=center;size=20;position=0.25;rotation=90;verticalAlign=middle;horizontal=0;whiteSpace=wrap;direction=east;flipV=1;flipH=1;" vertex="1" parent="6C3MgPUXNdswaxsrxd5J-1">
-          <mxGeometry x="172" y="888" width="40" height="163" as="geometry" />
+          <mxGeometry x="172" y="895" width="40" height="163" as="geometry" />
         </mxCell>
         <mxCell id="w8KFLWZFro8CPM4GHCP7-12" value="ARP 패킷 Packet_IN" style="endArrow=classic;html=1;curved=1;fontSize=10;" edge="1" parent="6C3MgPUXNdswaxsrxd5J-1">
           <mxGeometry x="0.0476" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="293" y="1021" as="sourcePoint" />
-            <mxPoint x="520" y="1021" as="targetPoint" />
+            <mxPoint x="293" y="1028" as="sourcePoint" />
+            <mxPoint x="520" y="1028" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="w8KFLWZFro8CPM4GHCP7-13" value="ARP 패킷의 Source MAC을 ARP를 수신한 SDN스위치 &lt;br&gt;포트와 연결" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=0;shadow=0;align=center;size=20;position=0.15;rotation=90;verticalAlign=middle;horizontal=0;base=20;" vertex="1" parent="6C3MgPUXNdswaxsrxd5J-1">
-          <mxGeometry x="620.51" y="928" width="50" height="190" as="geometry" />
+          <mxGeometry x="620.51" y="935" width="50" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
