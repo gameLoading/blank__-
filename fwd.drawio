@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-31T05:18:07.199Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="3VMWdrhONwXfheownjIx" version="13.10.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-12-31T05:19:13.884Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="ZctJ7p8VltCwppHvvpGO" version="13.10.6" type="github" pages="3">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="base topology">
     <mxGraphModel dx="2230" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -125,7 +125,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="k2NYYY3hgjc-zzha8QRS" name="ARP 패킷 발생">
-    <mxGraphModel dx="2230" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2932" dy="1305" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WWMQa4lhRxH5_0RUE8zA-0" />
         <mxCell id="WWMQa4lhRxH5_0RUE8zA-1" parent="WWMQa4lhRxH5_0RUE8zA-0" />
@@ -245,6 +245,174 @@
         </mxCell>
         <mxCell id="G1QAnbgH6OBteW6RvntF-27" value="ONOS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="WWMQa4lhRxH5_0RUE8zA-1">
           <mxGeometry x="-768.5" y="50" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="XO8KpoULLycDCGCCfBKi" name="요약">
+    <mxGraphModel dx="1403" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="OwacrLZXJDE_dL_6oxCz-0" />
+        <mxCell id="OwacrLZXJDE_dL_6oxCz-1" parent="OwacrLZXJDE_dL_6oxCz-0" />
+        <mxCell id="OwacrLZXJDE_dL_6oxCz-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="OwacrLZXJDE_dL_6oxCz-1" source="OwacrLZXJDE_dL_6oxCz-3" target="OwacrLZXJDE_dL_6oxCz-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OwacrLZXJDE_dL_6oxCz-3" value="fwd App 활성화" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="OwacrLZXJDE_dL_6oxCz-1">
+          <mxGeometry x="15" y="160" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OwacrLZXJDE_dL_6oxCz-4" value="ipv4 패킷 및&amp;nbsp;매칭되지 않는 &lt;br&gt;패킷도 모두 컨트롤러로 전송하도록&lt;br&gt;Flow 설치" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="OwacrLZXJDE_dL_6oxCz-1">
+          <mxGeometry x="15" y="300" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OwacrLZXJDE_dL_6oxCz-5" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="OwacrLZXJDE_dL_6oxCz-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="115" y="350" as="sourcePoint" />
+            <mxPoint x="115" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="115" y="385" />
+              <mxPoint x="115" y="385" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OwacrLZXJDE_dL_6oxCz-6" value="패킷 처리기 등록" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="OwacrLZXJDE_dL_6oxCz-1">
+          <mxGeometry x="15" y="430" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OwacrLZXJDE_dL_6oxCz-7" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="OwacrLZXJDE_dL_6oxCz-1" source="OwacrLZXJDE_dL_6oxCz-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="215" y="460" as="sourcePoint" />
+            <mxPoint x="335.0000000000002" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="275" y="460" />
+              <mxPoint x="275" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OwacrLZXJDE_dL_6oxCz-8" value="Controller가 Packet_in 수신" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="OwacrLZXJDE_dL_6oxCz-1">
+          <mxGeometry x="335" y="160" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OwacrLZXJDE_dL_6oxCz-9" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="OwacrLZXJDE_dL_6oxCz-1" source="OwacrLZXJDE_dL_6oxCz-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="245" y="350" as="sourcePoint" />
+            <mxPoint x="434.9999999999998" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OwacrLZXJDE_dL_6oxCz-10" value="수신 패킷의 목적지 MAC과 같은&lt;br&gt;호스트를 아는가?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="OwacrLZXJDE_dL_6oxCz-1">
+          <mxGeometry x="315" y="260" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OwacrLZXJDE_dL_6oxCz-11" value="no" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="OwacrLZXJDE_dL_6oxCz-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="554.9999999999998" y="299.5799999999999" as="sourcePoint" />
+            <mxPoint x="604.9999999999998" y="299.5799999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OwacrLZXJDE_dL_6oxCz-12" value="플러딩 처리" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="OwacrLZXJDE_dL_6oxCz-1">
+          <mxGeometry x="605" y="280" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OwacrLZXJDE_dL_6oxCz-13" value="yes" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="OwacrLZXJDE_dL_6oxCz-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="434.5799999999999" y="340" as="sourcePoint" />
+            <mxPoint x="434.5799999999999" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OwacrLZXJDE_dL_6oxCz-14" value="해당 호스트의 엣지 스위치가&lt;br&gt;현재 패킷을 받은 스위치인가?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="OwacrLZXJDE_dL_6oxCz-1">
+          <mxGeometry x="309" y="390" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OwacrLZXJDE_dL_6oxCz-15" value="yes" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="OwacrLZXJDE_dL_6oxCz-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="559" y="429.5799999999999" as="sourcePoint" />
+            <mxPoint x="609" y="429.5799999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OwacrLZXJDE_dL_6oxCz-16" value="no" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="OwacrLZXJDE_dL_6oxCz-1" source="OwacrLZXJDE_dL_6oxCz-14" target="OwacrLZXJDE_dL_6oxCz-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="508.9999999999998" y="499.99999999999994" as="sourcePoint" />
+            <mxPoint x="437" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OwacrLZXJDE_dL_6oxCz-17" value="해당 패킷의 출발지/목적지 MAC와&amp;nbsp;&lt;br&gt;같은 패킷이 입력되면&lt;br&gt;해당 호스트가 연결되있는 포트로 출력하도록 Flow 설치&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="OwacrLZXJDE_dL_6oxCz-1">
+          <mxGeometry x="608" y="395" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OwacrLZXJDE_dL_6oxCz-18" value="해당 호스트와 연결된 엣지스위치와&lt;br&gt;해당 패킷을 수신한 스위치와의 경로 중&lt;br&gt;Hop Count가 가장 적은 경로 GET" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="OwacrLZXJDE_dL_6oxCz-1">
+          <mxGeometry x="307" y="520" width="256" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OwacrLZXJDE_dL_6oxCz-19" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="OwacrLZXJDE_dL_6oxCz-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="436.5799999999999" y="580" as="sourcePoint" />
+            <mxPoint x="436.5799999999999" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OwacrLZXJDE_dL_6oxCz-20" value="해당 경로가 없는가?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="OwacrLZXJDE_dL_6oxCz-1">
+          <mxGeometry x="312" y="630" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OwacrLZXJDE_dL_6oxCz-21" value="yes" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="OwacrLZXJDE_dL_6oxCz-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="561.9999999999995" y="669.5799999999999" as="sourcePoint" />
+            <mxPoint x="611.9999999999995" y="669.5799999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OwacrLZXJDE_dL_6oxCz-22" value="플러딩 처리" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="OwacrLZXJDE_dL_6oxCz-1">
+          <mxGeometry x="612" y="650" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OwacrLZXJDE_dL_6oxCz-23" value="no" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="OwacrLZXJDE_dL_6oxCz-1" source="OwacrLZXJDE_dL_6oxCz-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="444.0000000000002" y="490" as="sourcePoint" />
+            <mxPoint x="437" y="770.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OwacrLZXJDE_dL_6oxCz-24" value="해당 경로가&amp;nbsp; 패킷을 수신한&lt;br&gt;포트로 다시 돌아가야 하는가?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="OwacrLZXJDE_dL_6oxCz-1">
+          <mxGeometry x="313" y="770" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OwacrLZXJDE_dL_6oxCz-25" value="no" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="OwacrLZXJDE_dL_6oxCz-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="437.5799999999999" y="849.9999999999998" as="sourcePoint" />
+            <mxPoint x="437.58000000000015" y="909.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OwacrLZXJDE_dL_6oxCz-26" value="yes" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="OwacrLZXJDE_dL_6oxCz-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="562.9999999999998" y="809.5799999999999" as="sourcePoint" />
+            <mxPoint x="612.9999999999998" y="809.5799999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OwacrLZXJDE_dL_6oxCz-27" value="플러딩 처리" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="OwacrLZXJDE_dL_6oxCz-1">
+          <mxGeometry x="613" y="790" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OwacrLZXJDE_dL_6oxCz-28" value="&lt;span&gt;해당 패킷의 출발지/목적지 MAC와&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;span&gt;같은 패킷이 입력되면&lt;/span&gt;&lt;br&gt;&lt;span&gt;해당 경로의 출발지 포트로 출력하도록 &lt;br&gt;Flow 설치&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="OwacrLZXJDE_dL_6oxCz-1">
+          <mxGeometry x="312" y="910" width="253" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OwacrLZXJDE_dL_6oxCz-29" value="&lt;h1&gt;org.onosproject.fwd&lt;/h1&gt;&lt;div&gt;ONOS의 기본 패킷 프로세서 앱의 동작 방식&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="OwacrLZXJDE_dL_6oxCz-1">
+          <mxGeometry x="20" y="10" width="450" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OwacrLZXJDE_dL_6oxCz-30" value="&lt;span&gt;패킷을&amp;nbsp;해당 호스트가 연결되있는 포트로 전송하도록 명령(PACKET_OUT)&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="OwacrLZXJDE_dL_6oxCz-1">
+          <mxGeometry x="612" y="520" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OwacrLZXJDE_dL_6oxCz-31" value="해당 경로의 출발지 포트&lt;span&gt;로 전송하도록 명령(PACKET_OUT)&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="OwacrLZXJDE_dL_6oxCz-1">
+          <mxGeometry x="312" y="1040" width="254" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OwacrLZXJDE_dL_6oxCz-32" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="OwacrLZXJDE_dL_6oxCz-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="438.6599999999996" y="979.9999999999998" as="sourcePoint" />
+            <mxPoint x="438.6600000000003" y="1039.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OwacrLZXJDE_dL_6oxCz-33" value="[Dijkstra 알고리즘 사용]" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=left;" vertex="1" parent="OwacrLZXJDE_dL_6oxCz-1">
+          <mxGeometry x="15" y="585" width="270" height="160" as="geometry">
+            <mxRectangle x="19" y="585" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OwacrLZXJDE_dL_6oxCz-34" value="- 모든 Vertex(노드)를 미방문 상태로 표시&#xa;- 출발점으로 부터 모든 노드에 대해 임시 거리 &#xa;  (무한대) 부여&#xa;- 인접한 미방문상태의 다음 노드로 방문&#xa;- 방문한 노드와 이전 노드의 거리와 임시 거리를 &#xa;  비교하여 작은 쪽으로 덮어쓰기&#xa;- 이런 식으로 나아가다 미방문 상태 노드가 &#xa;   인접해있지 않으면 그 루트는 탐색 종료&#xa;-  다른 루트가 목적지에 도달 시 모두 탐색 종료&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="OwacrLZXJDE_dL_6oxCz-33">
+          <mxGeometry y="26" width="270" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="OwacrLZXJDE_dL_6oxCz-35" value="" style="endArrow=classic;html=1;" edge="1" parent="OwacrLZXJDE_dL_6oxCz-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="286" y="550" as="sourcePoint" />
+            <mxPoint x="146" y="570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="176" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OwacrLZXJDE_dL_6oxCz-36" value="참조" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="OwacrLZXJDE_dL_6oxCz-1">
+          <mxGeometry x="196" y="530" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
