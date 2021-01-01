@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-31T07:57:22.140Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="8kjXvQCc-sgaQ6mB_2ua" version="13.10.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-01-01T15:11:27.948Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="4FtwtluKy9KQAIoQJLuy" version="14.1.2" type="github" pages="5">
   <diagram id="XO8KpoULLycDCGCCfBKi" name="순서도">
-    <mxGraphModel dx="1341" dy="832" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="892" dy="566" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="OwacrLZXJDE_dL_6oxCz-0" />
         <mxCell id="OwacrLZXJDE_dL_6oxCz-1" parent="OwacrLZXJDE_dL_6oxCz-0" />
@@ -144,7 +144,7 @@
             <mxPoint x="438.6600000000003" y="1039.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OwacrLZXJDE_dL_6oxCz-33" value="[Dijkstra 알고리즘 사용]" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=left;" parent="OwacrLZXJDE_dL_6oxCz-1" vertex="1">
+        <mxCell id="OwacrLZXJDE_dL_6oxCz-33" value="    [Dijkstra 알고리즘 사용]" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=left;" parent="OwacrLZXJDE_dL_6oxCz-1" vertex="1">
           <mxGeometry x="15" y="585" width="270" height="160" as="geometry">
             <mxRectangle x="19" y="585" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
@@ -163,6 +163,9 @@
         </mxCell>
         <mxCell id="OwacrLZXJDE_dL_6oxCz-36" value="참조" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="OwacrLZXJDE_dL_6oxCz-1" vertex="1">
           <mxGeometry x="196" y="530" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2K2Bf115Wsmig5x1NJkz-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.045;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="OwacrLZXJDE_dL_6oxCz-1" source="OwacrLZXJDE_dL_6oxCz-33" target="OwacrLZXJDE_dL_6oxCz-33">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
