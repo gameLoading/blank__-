@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-02T08:42:46.236Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="0jQzhomhxGLAszvrniIz" version="14.1.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-01-03T06:48:32.477Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="k97EcIk4avl5RQhOOE_H" version="14.1.6" type="github" pages="5">
   <diagram id="XO8KpoULLycDCGCCfBKi" name="순서도">
-    <mxGraphModel dx="2144" dy="1278" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1071" dy="679" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="OwacrLZXJDE_dL_6oxCz-0" />
         <mxCell id="OwacrLZXJDE_dL_6oxCz-1" parent="OwacrLZXJDE_dL_6oxCz-0" />
@@ -171,7 +171,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="시퀸스 다이어그램" id="8DQ8-A30GW7MRRFKGUmL">
-    <mxGraphModel dx="1822" dy="1086" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1071" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="dNnIVv9pnNeGhmu_Yl4g-0" />
         <mxCell id="dNnIVv9pnNeGhmu_Yl4g-1" parent="dNnIVv9pnNeGhmu_Yl4g-0" />
@@ -197,7 +197,7 @@
         <mxCell id="zcf-5njgYt9w_5iH_t2v-7" value="fwd App, hostprovider App" style="whiteSpace=wrap;html=1;rounded=0;glass=0;horizontal=0;align=center;arcSize=24;" parent="dNnIVv9pnNeGhmu_Yl4g-1" vertex="1">
           <mxGeometry x="308" y="240" width="19" height="740" as="geometry" />
         </mxCell>
-        <mxCell id="zcf-5njgYt9w_5iH_t2v-8" value="1. fwd App 실행 명령" style="endArrow=classic;curved=1;entryX=1;entryY=0;entryDx=0;entryDy=0;fontSize=10;labelBorderColor=#FFFFFF;labelBackgroundColor=#FFFFFF;" parent="dNnIVv9pnNeGhmu_Yl4g-1" source="zcf-5njgYt9w_5iH_t2v-4" target="zcf-5njgYt9w_5iH_t2v-7" edge="1">
+        <mxCell id="zcf-5njgYt9w_5iH_t2v-8" value="1. ONOS LoadBalance App 실행 명령" style="endArrow=classic;curved=1;entryX=1;entryY=0;entryDx=0;entryDy=0;fontSize=10;labelBorderColor=#FFFFFF;labelBackgroundColor=#FFFFFF;" parent="dNnIVv9pnNeGhmu_Yl4g-1" source="zcf-5njgYt9w_5iH_t2v-4" target="zcf-5njgYt9w_5iH_t2v-7" edge="1">
           <mxGeometry x="0.4591" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="557.6399999999999" y="290.59000000000003" as="sourcePoint" />
             <mxPoint x="317.92857142857133" y="290.59000000000003" as="targetPoint" />
