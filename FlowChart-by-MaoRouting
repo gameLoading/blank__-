@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-03T06:53:54.001Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="1WGTTiE67v7SEm1KuKMi" version="14.1.6" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-01-03T06:57:44.477Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="PNs-WgS9KC8Bm8OJR0DF" version="14.1.6" type="github" pages="8">
   <diagram id="an-EDfwX3euFaCuXL0kV" name="순서도 요약">
     <mxGraphModel dx="893" dy="566" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -45,7 +45,7 @@
             <mxPoint x="434.9999999999998" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kUDyR-QOKzl_1TUFSLpq-10" value="해당 패킷의 소스, 목적지 MAC의&lt;br&gt;호스트를 알고 있는가?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="kUDyR-QOKzl_1TUFSLpq-1">
+        <mxCell id="kUDyR-QOKzl_1TUFSLpq-10" value="해당 패킷의 소스과 목적지 MAC의&lt;br&gt;호스트를 알고 있는가?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="kUDyR-QOKzl_1TUFSLpq-1">
           <mxGeometry x="315" y="260" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kUDyR-QOKzl_1TUFSLpq-13" value="yes" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="kUDyR-QOKzl_1TUFSLpq-1">
@@ -212,7 +212,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9r-bohYascti7WtltMnY-17" value="6. ARP의 목적지 MAC 질의" style="endArrow=classic;html=1;curved=1;fontSize=10;exitX=0.489;exitY=0.267;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="9r-bohYascti7WtltMnY-1">
+        <mxCell id="9r-bohYascti7WtltMnY-17" value="6. ipv4의 목적지 MAC 질의" style="endArrow=classic;html=1;curved=1;fontSize=10;exitX=0.489;exitY=0.267;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="9r-bohYascti7WtltMnY-1">
           <mxGeometry x="-0.0308" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="327" y="428.6600000000001" as="sourcePoint" />
             <mxPoint x="539.6100000000001" y="428" as="targetPoint" />
