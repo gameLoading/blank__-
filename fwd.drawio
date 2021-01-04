@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-04T08:45:31.575Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="VuV-bC8SCDNFBTeVhmZ0" version="14.1.7" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-01-04T08:45:57.182Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="3UCClsRxeuCLfotbIdi2" version="14.1.7" type="github" pages="5">
   <diagram id="XO8KpoULLycDCGCCfBKi" name="순서도">
     <mxGraphModel dx="1305" dy="748" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -662,7 +662,7 @@
           <mxGeometry x="-134" y="397" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jur5YhaPIwZiVDRP5QNH-33" value="port 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WWMQa4lhRxH5_0RUE8zA-1" vertex="1">
-          <mxGeometry x="-146" y="494" width="40" height="20" as="geometry" />
+          <mxGeometry x="-202" y="490" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0vsNFLYkIqKUND-bsHWT-0" value="100Mbps" style="endArrow=classic;startArrow=classic;html=1;strokeColor=#FF0000;" edge="1" parent="WWMQa4lhRxH5_0RUE8zA-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -692,6 +692,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-225.24799999999982" y="325.576" as="sourcePoint" />
             <mxPoint x="-142" y="419" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0vsNFLYkIqKUND-bsHWT-14" value="100Mbps" style="endArrow=classic;startArrow=classic;html=1;strokeColor=#FF0000;" edge="1" parent="WWMQa4lhRxH5_0RUE8zA-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-142" y="492" as="sourcePoint" />
+            <mxPoint x="-142" y="547" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
