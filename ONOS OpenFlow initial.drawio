@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-03T02:22:47.273Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="2Y8y19eU3eHL5m7qMkI-" version="14.6.11" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-06-03T02:23:00.802Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="iNH3mvMuKYQ5rz3x9b4M" version="14.6.11" type="github" pages="8">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="초안 교환">
     <mxGraphModel dx="1140" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -217,7 +217,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9IsPAx0P60ACAMTtpcIX-4" value="LLDP 패킷은 컨트롤러로 전송하도록 Flow install 요청&amp;nbsp;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=0;shadow=0;align=center;size=20;position=0.15;rotation=90;verticalAlign=middle;horizontal=0;base=20;" vertex="1" parent="_36GQZNdln1OVdj2KNSR-1">
-          <mxGeometry x="617.78" y="110.00000000000006" width="50" height="190.5" as="geometry" />
+          <mxGeometry x="623.35" y="105.19" width="50" height="200.13" as="geometry" />
         </mxCell>
         <mxCell id="9IsPAx0P60ACAMTtpcIX-5" value="Flow install에 대한 Ack" style="shape=callout;html=1;perimeter=calloutPerimeter;rounded=0;shadow=0;align=center;size=20;position=0.25;rotation=90;verticalAlign=middle;horizontal=0;whiteSpace=wrap;direction=east;flipV=1;flipH=1;" vertex="1" parent="_36GQZNdln1OVdj2KNSR-1">
           <mxGeometry x="168.62" y="180.00000000000006" width="40" height="163" as="geometry" />
@@ -254,7 +254,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9IsPAx0P60ACAMTtpcIX-12" value="sw1의 LLDP 정보 + LLDP를 받은 장비 및 수신 포트 정보 획득&lt;br&gt;(sw2의 수신 포트에는 sw1이 있다고 판단)" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=0;shadow=0;align=center;size=20;position=0.15;rotation=90;verticalAlign=middle;horizontal=0;base=23;" vertex="1" parent="_36GQZNdln1OVdj2KNSR-1">
-          <mxGeometry x="624.84" y="327.06" width="64.87" height="204.87" as="geometry" />
+          <mxGeometry x="617.7800000000001" y="327.07" width="64.87" height="204.87" as="geometry" />
         </mxCell>
         <mxCell id="9IsPAx0P60ACAMTtpcIX-13" value="FlowMod(BARRIER_REPLY)" style="endArrow=classic;html=1;curved=1;fontSize=11;exitX=0.525;exitY=0.734;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="_36GQZNdln1OVdj2KNSR-1">
           <mxGeometry x="0.0476" width="50" height="50" relative="1" as="geometry">
@@ -264,7 +264,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9IsPAx0P60ACAMTtpcIX-15" value="모든 포트로 sw1에 대한 정보가 포함된 LLDP 패킷을 PacketOut" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=0;shadow=0;align=center;size=20;position=0.15;rotation=90;verticalAlign=middle;horizontal=0;base=20;" vertex="1" parent="_36GQZNdln1OVdj2KNSR-1">
-          <mxGeometry x="620" y="242.00000000000006" width="50" height="190.5" as="geometry" />
+          <mxGeometry x="626" y="236" width="50" height="202.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
