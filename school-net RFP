@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-23T02:08:02.926Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.864.54" etag="cJof6heTsFoU2ZprunH_" version="14.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-23T02:08:26.707Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.864.54" etag="FGgNwd4FK8Ihi-rVW62T" version="14.1.4" type="github">
   <diagram id="bMZPnwvL7SEXYUuxO_6x" name="Page-1">
-    <mxGraphModel dx="2066" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2576" dy="1113" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,25 +55,26 @@
         <mxCell id="sN2intRHHpBrYbzuMWN3-9" value="장비 reboot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="380" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="sN2intRHHpBrYbzuMWN3-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sN2intRHHpBrYbzuMWN3-11">
+        <mxCell id="sN2intRHHpBrYbzuMWN3-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-130" y="500" as="targetPoint" />
+            <mxPoint x="-136" y="500" as="targetPoint" />
+            <mxPoint x="-1" y="420" as="sourcePoint" />
             <Array as="points">
-              <mxPoint y="450" />
-              <mxPoint x="-130" y="450" />
+              <mxPoint x="-1" y="450" />
+              <mxPoint x="-136" y="450" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-11" value="그룹" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-60" y="370" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="sN2intRHHpBrYbzuMWN3-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sN2intRHHpBrYbzuMWN3-13">
+        <mxCell id="sN2intRHHpBrYbzuMWN3-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sN2intRHHpBrYbzuMWN3-13" target="sN2intRHHpBrYbzuMWN3-24">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-130" y="625" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-13" value="학교 or 교육청 별&lt;br&gt;네트워크 표시" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="500" width="120" height="50" as="geometry" />
+          <mxGeometry x="-195" y="500" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-19" value="위치정보,&lt;br&gt;건물정보,&lt;br&gt;도면정보,&lt;br&gt;담당자 연락처 등&lt;br&gt;기본 정보 등록" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-195" y="740" width="120" height="90" as="geometry" />
@@ -99,7 +100,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-24" value="학교별 그룹핑" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="625" width="130" height="50" as="geometry" />
+          <mxGeometry x="-200" y="613" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-25" value="학교 추가 및 삭제" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-350" y="740" width="120" height="90" as="geometry" />
