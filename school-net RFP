@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-06-23T06:26:33.479Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.864.54" etag="modnpRItWd_tISzehjuC" version="14.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-23T06:27:10.083Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.864.54" etag="YyWpiDE7kkyJ_N_xq65g" version="14.1.4" type="github">
   <diagram id="bMZPnwvL7SEXYUuxO_6x" name="Page-1">
     <mxGraphModel dx="2884" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="sN2intRHHpBrYbzuMWN3-197" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-1310" y="375" width="780" height="160" as="geometry" />
+          <mxGeometry x="-1030" y="380" width="500" height="160" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-139" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="50" y="755" width="310" height="725" as="geometry" />
@@ -566,19 +566,19 @@
           <mxGeometry x="-670" y="410" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-189" value="보안적합성 기능" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-670" y="470" width="120" height="50" as="geometry" />
+          <mxGeometry x="-670" y="475" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-191" value="대시보드를 제외한&lt;br&gt;운영관리 화면에서 특정시간 사용하지 않는 경우 세션 종료 기능" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-820" y="410" width="130" height="50" as="geometry" />
+          <mxGeometry x="-830" y="410" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-192" value="하나의 운영관리 계정의&lt;br&gt;동시 접속 비허용" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-1090" y="395" width="137" height="50" as="geometry" />
+          <mxGeometry x="-830" y="475" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-194" value="장비 원격 접속 통제,&lt;br&gt;접속 성공/실패 로깅 및&lt;br&gt;세션타임아웃 설정 기능" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-1289" y="395" width="137" height="50" as="geometry" />
+          <mxGeometry x="-1000" y="410" width="137" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-196" value="네트워크 장비 접근 제한을 위한 보안 기능 제공&lt;br&gt;(RADIUS, TACCAS+)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-1289" y="460" width="137" height="50" as="geometry" />
+          <mxGeometry x="-1000" y="475" width="137" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-198" value="보안" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="-670" y="360" width="120" height="40" as="geometry" />
