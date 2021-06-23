@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-23T06:10:10.353Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.864.54" etag="uf2ZIcyY2EUV0gZidL8c" version="14.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-23T06:10:46.182Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.864.54" etag="M11kXlOy73bvbkpoOwE8" version="14.1.4" type="github">
   <diagram id="bMZPnwvL7SEXYUuxO_6x" name="Page-1">
     <mxGraphModel dx="2884" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -558,6 +558,9 @@
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-183" value="재설치 및 장애복구를 위한&lt;br&gt;백업 및 복원 기능" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1830" y="1050" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sN2intRHHpBrYbzuMWN3-185" value="학교별 네트워크 장비 사용 현황 조회" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1410" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
