@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-23T04:36:16.123Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.864.54" etag="jp9Qp3w_61WX9AkvvUUX" version="14.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-23T04:37:21.687Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.864.54" etag="RPePILO3OsUW6kGXfRHu" version="14.1.4" type="github">
   <diagram id="bMZPnwvL7SEXYUuxO_6x" name="Page-1">
     <mxGraphModel dx="3403" dy="1113" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -172,7 +172,7 @@
             <mxPoint x="-965" y="740" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-135" y="700" />
-              <mxPoint x="-870" y="700" />
+              <mxPoint x="-863" y="700" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -309,36 +309,36 @@
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="sN2intRHHpBrYbzuMWN3-105">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-870" y="920" as="targetPoint" />
+            <mxPoint x="-863" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="sN2intRHHpBrYbzuMWN3-105" target="sN2intRHHpBrYbzuMWN3-108">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-870" y="870" />
-              <mxPoint x="-1040" y="870" />
+              <mxPoint x="-863" y="870" />
+              <mxPoint x="-1033" y="870" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="sN2intRHHpBrYbzuMWN3-105" target="sN2intRHHpBrYbzuMWN3-110">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-870" y="870" />
-              <mxPoint x="-1220" y="870" />
+              <mxPoint x="-863" y="870" />
+              <mxPoint x="-1213" y="870" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-105" value="단말 그룹핑" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-930" y="750" width="120" height="90" as="geometry" />
+          <mxGeometry x="-923" y="740" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-107" value="단말 그룹 생성/삭제" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-930" y="920" width="120" height="40" as="geometry" />
+          <mxGeometry x="-923" y="920" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-108" value="단말 그룹에&amp;nbsp;&lt;br&gt;단말 추가/삭제/조회" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1100" y="920" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1093" y="920" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-110" value="단말 그룹별&lt;br&gt;정책 설정/삭제/조회" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1280" y="920" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1273" y="920" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
