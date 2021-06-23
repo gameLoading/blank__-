@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-23T05:08:45.384Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.864.54" etag="R11Q4vz1rx6_bC276ApN" version="14.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-23T05:11:15.882Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.864.54" etag="kFBFoL71JbcOhOLhkj8b" version="14.1.4" type="github">
   <diagram id="bMZPnwvL7SEXYUuxO_6x" name="Page-1">
-    <mxGraphModel dx="2680" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2504" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -418,7 +418,7 @@
         <mxCell id="sN2intRHHpBrYbzuMWN3-136" value="학교별 실시간&lt;br&gt;트래픽 정보 제공" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="220" y="800" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="sN2intRHHpBrYbzuMWN3-137" value="&amp;nbsp;네트워크 상태" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="sN2intRHHpBrYbzuMWN3-137" value="모니터링 관련" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="140" y="740" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-140" value="학교별 실시간 &lt;br&gt;네트워크 접근 &lt;br&gt;단말 정보" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
@@ -432,6 +432,9 @@
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-143" value="학교별 네트워크&lt;br&gt;장비의 구체적인&lt;br&gt;설치위치 정보" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="220" y="940" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sN2intRHHpBrYbzuMWN3-146" value="학교별 네트워크 장비&lt;br&gt;실시간 상태정보&lt;br&gt;(MIB, netconf/yang)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1014" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
