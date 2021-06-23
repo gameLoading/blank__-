@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-23T05:13:02.547Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.864.54" etag="lCHGJztqRdUvxotWycwD" version="14.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-23T05:13:10.391Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.864.54" etag="cZi2A9nQTqR_FHDT6xit" version="14.1.4" type="github">
   <diagram id="bMZPnwvL7SEXYUuxO_6x" name="Page-1">
     <mxGraphModel dx="2249" dy="378" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -436,7 +436,7 @@
         <mxCell id="sN2intRHHpBrYbzuMWN3-146" value="학교별 네트워크 장비&lt;br&gt;실시간 상태정보&lt;br&gt;(MIB, netconf/yang)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="70" y="1014" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="sN2intRHHpBrYbzuMWN3-147" value="학교별 설정, 저장,&amp;nbsp; 관리, 조회&lt;br&gt;가능한 알람기능" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="sN2intRHHpBrYbzuMWN3-147" value="학교별 설정, 저장,&amp;nbsp; &lt;br&gt;관리, 조회&lt;br&gt;가능한 알람기능" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="220" y="1015" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-148" value="트래픽 사용량, 네트워크 장비 상태, 연동상태 알람 기능" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
