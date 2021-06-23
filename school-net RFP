@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-23T02:48:12.608Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.864.54" etag="vHMADJPw1oGhuPeU1b2_" version="14.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-23T02:50:50.883Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.864.54" etag="OE06ojCq58g9y_zhowmg" version="14.1.4" type="github">
   <diagram id="bMZPnwvL7SEXYUuxO_6x" name="Page-1">
-    <mxGraphModel dx="1853" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2314" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -149,6 +149,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="sN2intRHHpBrYbzuMWN3-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sN2intRHHpBrYbzuMWN3-24" target="sN2intRHHpBrYbzuMWN3-70">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-500" y="740" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-135" y="700" />
+              <mxPoint x="-460" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sN2intRHHpBrYbzuMWN3-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="sN2intRHHpBrYbzuMWN3-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="638" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-24" value="학교별 그룹핑" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="-200" y="613" width="130" height="50" as="geometry" />
         </mxCell>
@@ -233,6 +247,15 @@
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-67" value="5튜플 및&lt;br&gt;포트 기반&amp;nbsp;&lt;br&gt;flow" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="1310" y="700" width="65" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sN2intRHHpBrYbzuMWN3-70" value="정책적용 현황&lt;br&gt;상세 정보" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="740" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="sN2intRHHpBrYbzuMWN3-71" value="정책적용 현황&lt;br&gt;상세 정보" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="740" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="sN2intRHHpBrYbzuMWN3-73" value="학교별 유일 &lt;br&gt;운영관리 계정" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry y="608" width="120" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
