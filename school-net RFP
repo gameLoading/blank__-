@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-23T04:53:18.548Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.864.54" etag="BcWEsvEl-MXe_RYqLECM" version="14.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-23T04:54:05.324Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.864.54" etag="2LWmIh1sA2vh9ot4cBqk" version="14.1.4" type="github">
   <diagram id="bMZPnwvL7SEXYUuxO_6x" name="Page-1">
-    <mxGraphModel dx="2504" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2362" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -318,7 +318,7 @@
           <mxGeometry x="-200" y="910" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-98" value="전체 학교에 대한&amp;nbsp;&lt;br&gt;정보를 확인 가능" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-210" y="964" width="140" height="96" as="geometry" />
+          <mxGeometry x="-210" y="964" width="140" height="46" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-100" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; display: inline; float: none;&quot;&gt;학교별 유일&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; display: inline; float: none;&quot;&gt;운영관리 계정&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="-700" y="964" width="120" height="40" as="geometry" />
@@ -387,6 +387,9 @@
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-125" value="네트워크 장비 추가 및 변경 기능" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1470" y="613" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sN2intRHHpBrYbzuMWN3-126" value="전체 학교 네트워크 현황&amp;nbsp;&lt;br&gt;요약 실시간 대시보드 확인 가능&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="1020" width="140" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
