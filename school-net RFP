@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-06-23T05:31:39.114Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.864.54" etag="PkDcRfPpfg4emCi34mB8" version="14.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-23T05:32:46.558Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.864.54" etag="ATMjzk7Dc4h2qEoBYzOx" version="14.1.4" type="github">
   <diagram id="bMZPnwvL7SEXYUuxO_6x" name="Page-1">
     <mxGraphModel dx="2348" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="sN2intRHHpBrYbzuMWN3-139" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="50" y="755" width="310" height="645" as="geometry" />
+          <mxGeometry x="50" y="755" width="310" height="715" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-97" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="-230" y="930" width="180" height="150" as="geometry" />
@@ -484,6 +484,12 @@
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-162" value="SDN 네트워크 장비&lt;br&gt;운영 기록 로깅, 장애 발생 시 로그를 통한&lt;br&gt;원인분석 가능" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="70" y="1330" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sN2intRHHpBrYbzuMWN3-163" value="컨트롤러 정책 생성/삭제/변경 내역 보관 기능" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1330" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sN2intRHHpBrYbzuMWN3-164" value="컨트롤러 상태(CPU,&lt;br&gt;메모리, 디스크 등) 등 모니터링 기능" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1410" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
