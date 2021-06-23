@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-23T01:42:46.066Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.864.54" etag="RXdFl-4uWnuHZSfgd1m7" version="14.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-23T01:45:49.816Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.864.54" etag="N45bXP65lJG2NncToTH6" version="14.1.4" type="github">
   <diagram id="bMZPnwvL7SEXYUuxO_6x" name="Page-1">
     <mxGraphModel dx="1239" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -12,11 +12,34 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="sN2intRHHpBrYbzuMWN3-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sN2intRHHpBrYbzuMWN3-1" target="sN2intRHHpBrYbzuMWN3-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="190" />
+              <mxPoint x="640" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-1" value="스쿨넷 RFP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="90" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-2" value="NMS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="250" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sN2intRHHpBrYbzuMWN3-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sN2intRHHpBrYbzuMWN3-4" target="sN2intRHHpBrYbzuMWN3-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="639.9999999999998" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="640" y="340" />
+              <mxPoint x="460" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sN2intRHHpBrYbzuMWN3-4" value="제어 기술" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="250" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sN2intRHHpBrYbzuMWN3-9" value="장비 reboot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="380" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
