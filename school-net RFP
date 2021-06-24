@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-24T05:09:19.349Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="xZxu46tnDduXHvE6HomH" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-24T05:10:19.518Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="qvAiMv6woEElVQkDJJcr" version="14.8.0" type="github">
   <diagram id="bMZPnwvL7SEXYUuxO_6x" name="Page-1">
     <mxGraphModel dx="2679" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry x="790" y="1398" width="170" height="272" as="geometry" />
         </mxCell>
         <mxCell id="nBXMqKJNdPmPoWQ_-GRA-172" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="565" y="1398" width="170" height="342" as="geometry" />
+          <mxGeometry x="565" y="1398" width="170" height="412" as="geometry" />
         </mxCell>
         <mxCell id="nBXMqKJNdPmPoWQ_-GRA-167" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="-800" y="1540" width="160" height="154" as="geometry" />
@@ -815,6 +815,9 @@
         </mxCell>
         <mxCell id="nBXMqKJNdPmPoWQ_-GRA-211" value="보안취약점 점검 및&lt;br&gt;조치결과" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-540" y="1620" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-213" value="&lt;p class=&quot;0&quot; style=&quot;line-height: 120% ; font-size: 12px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;kopubdotummedium&amp;#34; ; font-size: 12px ; color: rgb(49 , 49 , 49)&quot;&gt;모든 소프트웨어와 솔루션은 제조사의 라이선스 정책과 관계없이 지속적으로 제공&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="585" y="1737" width="130" height="73" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
