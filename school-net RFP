@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-24T05:39:24.541Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="eY3_CUUI9Jqum4aBRYVV" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-24T05:39:32.890Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="SVluR2q8bjUlk3VjEMFr" version="14.8.0" type="github">
   <diagram id="bMZPnwvL7SEXYUuxO_6x" name="Page-1">
     <mxGraphModel dx="3932" dy="1410" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -833,28 +833,28 @@
           <mxGeometry x="950" y="260" width="680" height="220" as="geometry" />
         </mxCell>
         <mxCell id="2CJF6UvZkdjvXSNEMhZS-55" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-128" y="1850" width="160" height="448" as="geometry" />
+          <mxGeometry x="-150" y="1790" width="160" height="448" as="geometry" />
         </mxCell>
         <mxCell id="2CJF6UvZkdjvXSNEMhZS-56" value="&#xa;&#xa;&lt;span style=&quot;font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; display: inline; float: none;&quot;&gt;업그레이드&lt;/span&gt;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#b85450;fillColor=#f8cecc;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-108" y="1830" width="120" height="40" as="geometry" />
+          <mxGeometry x="-130" y="1770" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2CJF6UvZkdjvXSNEMhZS-57" value="컨트롤러에 의한&lt;br&gt;스위치 펌웨어 자동&amp;nbsp;&lt;br&gt;업그레이드" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-108" y="1880" width="120" height="50" as="geometry" />
+          <mxGeometry x="-130" y="1820" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2CJF6UvZkdjvXSNEMhZS-58" value="무중단 업그레이드" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-108" y="1940" width="120" height="50" as="geometry" />
+          <mxGeometry x="-130" y="1880" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2CJF6UvZkdjvXSNEMhZS-59" value="GUI 기반 OS설치 및&lt;br&gt;업그레이드 기능" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-108" y="2000" width="120" height="50" as="geometry" />
+          <mxGeometry x="-130" y="1940" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2CJF6UvZkdjvXSNEMhZS-60" value="네트워크 장비 추가 및 변경 기능" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-108" y="2063" width="120" height="50" as="geometry" />
+          <mxGeometry x="-130" y="2003" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2CJF6UvZkdjvXSNEMhZS-61" value="SDN 스위치 보안패치&lt;br&gt;기능 지원" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-109" y="2127" width="122" height="50" as="geometry" />
+          <mxGeometry x="-131" y="2067" width="122" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2CJF6UvZkdjvXSNEMhZS-62" value="&#xa;&#xa;&lt;span lang=&quot;EN-US&quot; style=&quot;font-style: normal; font-weight: 400; letter-spacing: 0pt; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; font-family: kopubdotummedium; font-size: 12px; color: rgb(49, 49, 49);&quot;&gt;CLI, GUI, REST API&lt;/span&gt;&lt;span style=&quot;font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; font-family: kopubdotummedium; font-size: 12px; color: rgb(49, 49, 49);&quot;&gt;를 이용하여&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-style: normal; font-weight: 400; letter-spacing: 0pt; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; font-family: kopubdotummedium; font-size: 12px; color: rgb(49, 49, 49);&quot;&gt;SDN&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; font-family: kopubdotummedium; font-size: 12px; color: rgb(49, 49, 49);&quot;&gt;스위치를 관리&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-style: normal; font-weight: 400; letter-spacing: 0pt; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; font-family: kopubdotummedium; font-size: 12px; color: rgb(49, 49, 49);&quot;&gt;,&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; font-family: kopubdotummedium; font-size: 12px; color: rgb(49, 49, 49);&quot;&gt;설정&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-style: normal; font-weight: 400; letter-spacing: 0pt; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; font-family: kopubdotummedium; font-size: 12px; color: rgb(49, 49, 49);&quot;&gt;,&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; font-family: kopubdotummedium; font-size: 12px; color: rgb(49, 49, 49);&quot;&gt;디버그&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-style: normal; font-weight: 400; letter-spacing: 0pt; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; font-family: kopubdotummedium; font-size: 12px; color: rgb(49, 49, 49);&quot;&gt;,&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; font-family: kopubdotummedium; font-size: 12px; color: rgb(49, 49, 49);&quot;&gt;트러블슈팅&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-style: normal; font-weight: 400; letter-spacing: 0pt; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; font-family: kopubdotummedium; font-size: 12px; color: rgb(49, 49, 49);&quot;&gt;,&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; font-family: kopubdotummedium; font-size: 12px; color: rgb(49, 49, 49);&quot;&gt;업그레이드 기능 제공&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;labelBackgroundColor=none;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-108" y="2190" width="122" height="88" as="geometry" />
+          <mxGeometry x="-130" y="2130" width="122" height="88" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
