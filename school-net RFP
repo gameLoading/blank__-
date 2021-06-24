@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-06-24T02:02:17.223Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="JYpqrTVnJ3yGhADWC-x3" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-24T02:07:30.265Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="Yx_vdoyD3pHBa4t_P0NW" version="14.8.0" type="github">
   <diagram id="bMZPnwvL7SEXYUuxO_6x" name="Page-1">
-    <mxGraphModel dx="2892" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3402" dy="1112" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-101" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="378" y="780" width="572" height="270" as="geometry" />
+        </mxCell>
         <mxCell id="nBXMqKJNdPmPoWQ_-GRA-96" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1370" y="554" width="160" height="206" as="geometry" />
         </mxCell>
@@ -217,7 +220,7 @@
           <mxGeometry x="1190" y="650" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-40" value="E2E&amp;nbsp; 자동경로제어" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="910" y="838.25" width="120" height="50" as="geometry" />
+          <mxGeometry x="391" y="929" width="123" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-42" value="IP Mobility" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="1391" y="610" width="120" height="50" as="geometry" />
@@ -253,24 +256,24 @@
           <mxGeometry x="560" y="840" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-52" value="BoD" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="1090" y="840" width="120" height="50" as="geometry" />
+          <mxGeometry x="560" y="930" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="sN2intRHHpBrYbzuMWN3-61" target="sN2intRHHpBrYbzuMWN3-66" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="732.9999999999995" y="934" as="targetPoint" />
+            <mxPoint x="762.9999999999995" y="932" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" parent="1" source="sN2intRHHpBrYbzuMWN3-61" target="sN2intRHHpBrYbzuMWN3-67" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-61" value="&lt;span lang=&quot;EN-US&quot; style=&quot;font-style: normal ; font-weight: 400 ; letter-spacing: 0pt ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; font-family: &amp;#34;kopubdotummedium&amp;#34; ; font-size: 12px ; color: rgb(49 , 49 , 49)&quot;&gt;5&lt;/span&gt;&lt;span style=&quot;font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; font-family: &amp;#34;kopubdotummedium&amp;#34; ; font-size: 12px ; color: rgb(49 , 49 , 49)&quot;&gt;튜플&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; font-family: &amp;#34;kopubdotummedium&amp;#34; ; font-size: 12px ; color: rgb(49 , 49 , 49)&quot;&gt;및&lt;span style=&quot;font-size: 12px&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-style: normal ; font-weight: 400 ; letter-spacing: 0pt ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; font-family: &amp;#34;kopubdotummedium&amp;#34; ; font-size: 12px ; color: rgb(49 , 49 , 49)&quot;&gt;In/Out Port&lt;span style=&quot;font-size: 12px&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; font-family: &amp;#34;kopubdotummedium&amp;#34; ; font-size: 12px ; color: rgb(49 , 49 , 49)&quot;&gt;정보 기반 트래픽 속도제어 정책 지원&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="725" y="840" width="140" height="50" as="geometry" />
+          <mxGeometry x="755" y="838" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-66" value="속도 제어&lt;br&gt;(meter)" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#b85450;fillColor=#f8cecc;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="693" y="944" width="90" height="80" as="geometry" />
+          <mxGeometry x="723" y="942" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-67" value="5튜플 및&lt;br&gt;포트 기반&amp;nbsp;&lt;br&gt;flow" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="813" y="944" width="90" height="80" as="geometry" />
+          <mxGeometry x="843" y="942" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-70" value="정책적용 현황&lt;br&gt;상세 정보" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-1298.5" y="962.5" width="120" height="45" as="geometry" />
@@ -516,7 +519,7 @@
           <mxGeometry x="612" y="1630" width="550" height="70" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-227" value="&lt;p class=&quot;0&quot; style=&quot;line-height: 20%&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: &amp;#34;kopubdotummedium&amp;#34; ; letter-spacing: 0pt ; font-size: 11.0pt ; color: #313131&quot;&gt;NBI &lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;kopubdotummedium&amp;#34; ; font-size: 11.0pt ; color: #313131&quot;&gt;프로토콜&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;0&quot; style=&quot;line-height: 120%&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;kopubdotummedium&amp;#34; ; font-size: 11pt ; color: rgb(49 , 49 , 49)&quot;&gt;제공&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: &amp;#34;kopubdotummedium&amp;#34; ; letter-spacing: 0pt ; font-size: 11pt ; color: rgb(49 , 49 , 49)&quot;&gt;&amp;nbsp;(REST API, ...)&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="920" y="420" width="140" height="50" as="geometry" />
+          <mxGeometry x="920" y="420" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-228" value="&lt;p class=&quot;0&quot; style=&quot;line-height: 120%&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: &amp;#34;kopubdotummedium&amp;#34; ; letter-spacing: 0pt ; font-size: 11.0pt ; color: #313131&quot;&gt;SBI &lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;kopubdotummedium&amp;#34; ; font-size: 11.0pt ; color: #313131&quot;&gt;프로토콜을 제공&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: &amp;#34;kopubdotummedium&amp;#34; ; letter-spacing: 0pt ; font-size: 11.0pt ; color: #313131&quot;&gt;(Openflow, Netconf/Yang, OVSDB ...)&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="922" y="315" width="200" height="50" as="geometry" />
@@ -577,8 +580,8 @@
         <mxCell id="nBXMqKJNdPmPoWQ_-GRA-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nBXMqKJNdPmPoWQ_-GRA-35" target="sN2intRHHpBrYbzuMWN3-162">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="853" y="626" />
-              <mxPoint x="918" y="626" />
+              <mxPoint x="853" y="624" />
+              <mxPoint x="918" y="624" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -612,7 +615,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="563" y="810" />
-              <mxPoint x="795" y="810" />
+              <mxPoint x="825" y="810" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -621,22 +624,6 @@
             <Array as="points">
               <mxPoint x="563" y="810" />
               <mxPoint x="620" y="810" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nBXMqKJNdPmPoWQ_-GRA-68" target="sN2intRHHpBrYbzuMWN3-40">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="563" y="810" />
-              <mxPoint x="970" y="810" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nBXMqKJNdPmPoWQ_-GRA-68" target="sN2intRHHpBrYbzuMWN3-52">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="563" y="810" />
-              <mxPoint x="1150" y="810" />
             </Array>
           </mxGeometry>
         </mxCell>
