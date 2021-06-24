@@ -1,19 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2021-06-24T05:33:10.980Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="gy8I8ctGvlS391CHRgzQ" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-24T05:36:17.110Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="HFdmDon5h1nIqvdJXdvz" version="14.8.0" type="github">
   <diagram id="bMZPnwvL7SEXYUuxO_6x" name="Page-1">
-    <mxGraphModel dx="7349" dy="3525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5451" dy="2350" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2CJF6UvZkdjvXSNEMhZS-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2CJF6UvZkdjvXSNEMhZS-5" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
           <mxGeometry x="-1620" y="1210" width="1360" height="1100" as="geometry" />
         </mxCell>
-        <mxCell id="2CJF6UvZkdjvXSNEMhZS-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2CJF6UvZkdjvXSNEMhZS-4" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="-250" y="1210" width="1890" height="1100" as="geometry" />
         </mxCell>
-        <mxCell id="2CJF6UvZkdjvXSNEMhZS-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2CJF6UvZkdjvXSNEMhZS-3" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="-250" y="247" width="1890" height="950" as="geometry" />
         </mxCell>
-        <mxCell id="2CJF6UvZkdjvXSNEMhZS-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2CJF6UvZkdjvXSNEMhZS-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="-1620" y="247" width="1360" height="950" as="geometry" />
         </mxCell>
         <mxCell id="nBXMqKJNdPmPoWQ_-GRA-210" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" parent="1" vertex="1">
@@ -35,7 +35,7 @@
           <mxGeometry x="-847" y="1640" width="160" height="154" as="geometry" />
         </mxCell>
         <mxCell id="nBXMqKJNdPmPoWQ_-GRA-156" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="-237" y="1490" width="145" height="200" as="geometry" />
+          <mxGeometry x="-225" y="1490" width="145" height="200" as="geometry" />
         </mxCell>
         <mxCell id="nBXMqKJNdPmPoWQ_-GRA-154" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-1063.5" y="1633" width="145" height="229" as="geometry" />
@@ -71,7 +71,7 @@
           <mxGeometry x="-1599" y="651" width="280" height="229" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-230" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="273" y="1498" width="190" height="380" as="geometry" />
+          <mxGeometry x="260.5" y="1498" width="190" height="380" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-97" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-530" y="653" width="160" height="155" as="geometry" />
@@ -365,19 +365,19 @@
           <mxGeometry x="-1267.5" y="814" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-169" value="컨트롤러와 장비 간 연동이 &lt;br&gt;끊어지거나 재연동되도 &lt;br&gt;각 학교 네트워크에 영향을 미치지 않는가?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="293" y="1530" width="150" height="70" as="geometry" />
+          <mxGeometry x="280.5" y="1530" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-170" value="Active-By-Active 또는&lt;br&gt;Active-by-StandBy&amp;nbsp;&lt;br&gt;이중화 지원&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="293" y="1615" width="150" height="50" as="geometry" />
+          <mxGeometry x="280.5" y="1615" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-172" value="컨트롤러와 장비 간&lt;br&gt;연동 끊어질 시 네트워크 장비는 정책 유지 가능" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="292" y="1744" width="150" height="50" as="geometry" />
+          <mxGeometry x="279.5" y="1744" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-181" value="서버의 종류에 상관없이&amp;nbsp;&lt;br&gt;컨트롤러 확장이 가능한&lt;br&gt;클러스터링 기능" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="293" y="1680" width="150" height="50" as="geometry" />
+          <mxGeometry x="280.5" y="1680" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-183" value="재설치 및 장애복구를 위한&lt;br&gt;백업 및 복원 기능" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="293" y="1810" width="150" height="50" as="geometry" />
+          <mxGeometry x="280.5" y="1810" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-185" value="학교별 네트워크 장비 사용 현황 조회" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="140.5" y="940" width="120" height="50" as="geometry" />
@@ -452,10 +452,10 @@
           <mxGeometry x="538" y="1760" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-227" value="&lt;p class=&quot;0&quot; style=&quot;line-height: 20%&quot;&gt;&lt;font color=&quot;#313131&quot; face=&quot;kopubdotummedium&quot;&gt;&lt;span style=&quot;font-size: 14.6667px&quot;&gt;NBI 프로토콜&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;0&quot; style=&quot;line-height: 20%&quot;&gt;&lt;font color=&quot;#313131&quot; face=&quot;kopubdotummedium&quot;&gt;&lt;span style=&quot;font-size: 14.6667px&quot;&gt;(REST API...)&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="-228.25" y="1610" width="127.5" height="70" as="geometry" />
+          <mxGeometry x="-216.25" y="1610" width="127.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-228" value="&lt;p class=&quot;0&quot; style=&quot;line-height: 120%&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: &amp;#34;kopubdotummedium&amp;#34; ; letter-spacing: 0pt ; font-size: 11.0pt ; color: #313131&quot;&gt;SBI &lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;kopubdotummedium&amp;#34; ; font-size: 11.0pt ; color: #313131&quot;&gt;프로토콜&lt;/span&gt;&lt;span style=&quot;color: rgb(49 , 49 , 49) ; font-family: &amp;#34;kopubdotummedium&amp;#34; ; font-size: 11pt ; letter-spacing: 0pt&quot;&gt;(Openflow, Netconf/Yang, OVSDB ...)&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="-228.25" y="1529" width="127.5" height="64.5" as="geometry" />
+          <mxGeometry x="-216.25" y="1529" width="127.5" height="64.5" as="geometry" />
         </mxCell>
         <mxCell id="pUOcT97VCcXrqS7l1f5j-1" value="&lt;b&gt;[스쿨넷 요구사항]&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#000000;fontSize=100;" parent="1" vertex="1">
           <mxGeometry x="-1599" y="120" width="919" height="20" as="geometry" />
@@ -615,12 +615,13 @@
         <mxCell id="nBXMqKJNdPmPoWQ_-GRA-124" value="제어 및 기능" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="1488" y="675" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nBXMqKJNdPmPoWQ_-GRA-128" edge="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nBXMqKJNdPmPoWQ_-GRA-128" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="367" y="1480" as="targetPoint" />
+            <mxPoint x="360" y="1480" as="targetPoint" />
             <Array as="points">
               <mxPoint x="43" y="1410" />
-              <mxPoint x="367" y="1410" />
+              <mxPoint x="360" y="1410" />
+              <mxPoint x="360" y="1480" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -637,7 +638,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="43" y="1410" />
-              <mxPoint x="-164" y="1410" />
+              <mxPoint x="-150" y="1410" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -736,13 +737,13 @@
           <mxGeometry x="-1051" y="1620" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nBXMqKJNdPmPoWQ_-GRA-160" value="프로토콜" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="-224.5" y="1473" width="120" height="40" as="geometry" />
+          <mxGeometry x="-212.5" y="1473" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nBXMqKJNdPmPoWQ_-GRA-163" value="장비 접속 보안" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#b85450;fillColor=#f8cecc;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-827.5" y="1624" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nBXMqKJNdPmPoWQ_-GRA-170" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; display: inline; float: none;&quot;&gt;고가용성&lt;/span&gt;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#b85450;fillColor=#f8cecc;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="307" y="1480" width="120" height="40" as="geometry" />
+          <mxGeometry x="294.5" y="1480" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nBXMqKJNdPmPoWQ_-GRA-171" value="라이선스" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#b85450;fillColor=#f8cecc;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="543" y="1480" width="120" height="40" as="geometry" />
@@ -842,6 +843,15 @@
         </mxCell>
         <mxCell id="2CJF6UvZkdjvXSNEMhZS-46" value="컨트롤러 정책 암호화&amp;nbsp;&lt;br&gt;기능 제공" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;dashed=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-1057" y="1730" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2CJF6UvZkdjvXSNEMhZS-49" value="&lt;font style=&quot;font-size: 100px;&quot;&gt;NMS 관련&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=100;fontStyle=1;textOpacity=50;" vertex="1" parent="1">
+          <mxGeometry x="-1590" y="280" width="560" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="2CJF6UvZkdjvXSNEMhZS-52" value="&lt;font style=&quot;font-size: 100px&quot;&gt;보안 관련&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=100;fontStyle=1;textOpacity=50;" vertex="1" parent="1">
+          <mxGeometry x="-1570" y="2050" width="560" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="2CJF6UvZkdjvXSNEMhZS-53" value="&lt;font style=&quot;font-size: 100px&quot;&gt;보안 관련&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=100;fontStyle=1;textOpacity=50;" vertex="1" parent="1">
+          <mxGeometry x="1049" y="2060" width="560" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
