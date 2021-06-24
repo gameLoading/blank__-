@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-06-24T05:02:13.496Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="mxdD92jGBzGf8B2HfJRW" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-24T05:04:14.586Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="tU10XNoiYl5k0TSWNiCz" version="14.8.0" type="github">
   <diagram id="bMZPnwvL7SEXYUuxO_6x" name="Page-1">
     <mxGraphModel dx="3140" dy="945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-200" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="70.5" y="1398" width="159.5" height="232" as="geometry" />
+        </mxCell>
         <mxCell id="nBXMqKJNdPmPoWQ_-GRA-182" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="1013" y="1399" width="367" height="351" as="geometry" />
         </mxCell>
@@ -764,7 +767,7 @@
         <mxCell id="nBXMqKJNdPmPoWQ_-GRA-192" value="모니터링" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#b85450;fillColor=#f8cecc;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="89.5" y="1373" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-193" value="운영자 로그" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-193" value="운영자 관련&lt;br&gt;로깅 기능" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="79" y="1495" width="141" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nBXMqKJNdPmPoWQ_-GRA-194" value="학교에 대한 정보 및 설정 변경 시&lt;br&gt;로깅 기능" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
