@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-06-24T01:52:58.782Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="LjNrHqfeNV24t8-zv9dt" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-24T01:53:11.624Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="evtCkpJmUtJ3B1iRfr0I" version="14.8.0" type="github">
   <diagram id="bMZPnwvL7SEXYUuxO_6x" name="Page-1">
     <mxGraphModel dx="3140" dy="945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="nBXMqKJNdPmPoWQ_-GRA-54" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-2.5" y="706" width="307" height="434" as="geometry" />
+          <mxGeometry x="-2.5" y="706" width="307" height="354" as="geometry" />
         </mxCell>
         <mxCell id="nBXMqKJNdPmPoWQ_-GRA-51" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="-220" y="702" width="180" height="185" as="geometry" />
@@ -584,7 +584,7 @@
           <mxGeometry x="21.5" y="998" width="128.5" height="46" as="geometry" />
         </mxCell>
         <mxCell id="nBXMqKJNdPmPoWQ_-GRA-78" value="상기 정보는 학교별로 관리,&lt;br&gt;GUI로 제공되어야 함" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="23" y="1062" width="257" height="58" as="geometry" />
+          <mxGeometry x="165.5" y="998" width="120" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
