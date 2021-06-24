@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-24T01:20:10.893Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="nWPNGYWTCzh1J_cIAGqF" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-24T01:21:53.649Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="H_Fbq4jZWmskbppp5T7V" version="14.8.0" type="github">
   <diagram id="bMZPnwvL7SEXYUuxO_6x" name="Page-1">
     <mxGraphModel dx="3466" dy="1112" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="-1311" y="923" width="145" height="229" as="geometry" />
         </mxCell>
         <mxCell id="nBXMqKJNdPmPoWQ_-GRA-23" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-1630" y="921" width="280" height="299" as="geometry" />
+          <mxGeometry x="-1630" y="921" width="280" height="229" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-231" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="312" y="1440" width="1340" height="170" as="geometry" />
@@ -220,16 +220,16 @@
           <mxGeometry x="132" y="720" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-36" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; display: inline; float: none;&quot;&gt;장비 reboot&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="798" y="160" width="120" height="50" as="geometry" />
+          <mxGeometry x="1110" y="610" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-40" value="E2E&amp;nbsp; 자동경로제어" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="721" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-42" value="IP Mobility" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="968" y="160" width="120" height="50" as="geometry" />
+          <mxGeometry x="1143" y="630" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-43" value="논리적 망분리" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="1138" y="160" width="120" height="50" as="geometry" />
+          <mxGeometry x="1168" y="650" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="sN2intRHHpBrYbzuMWN3-45" target="sN2intRHHpBrYbzuMWN3-52" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -268,7 +268,7 @@
           <mxGeometry x="127" y="550" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-47" value="업무별 및 어플리케이션 별 Flow 설치&lt;br&gt;&amp;nbsp;기능" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="20" y="980" width="120" height="50" as="geometry" />
+          <mxGeometry x="-37" y="1075" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-52" value="BoD" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="514" y="720" width="120" height="50" as="geometry" />
@@ -377,7 +377,7 @@
           <mxGeometry x="-208" y="871" width="128" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-146" value="학교별 네트워크 장비&lt;br&gt;실시간 상태정보&lt;br&gt;(MIB, netconf/yang)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="1080" y="795" width="120" height="50" as="geometry" />
+          <mxGeometry x="530" y="550" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-147" value="학교별 설정, 저장,&amp;nbsp; &lt;br&gt;관리, 조회(검색)&lt;br&gt;가능한 알람기능" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-1480" y="1022" width="120" height="50" as="geometry" />
@@ -392,7 +392,7 @@
           <mxGeometry x="-208" y="720" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-157" value="학교별 네트워크&amp;nbsp;&lt;br&gt;장비 시스로그 저장, 관리, 조회 기능" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="548" y="220" width="120" height="50" as="geometry" />
+          <mxGeometry x="903" y="580" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-158" value="학교에 대한 정보 및 설정 변경 시&lt;br&gt;로깅 기능" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-1619" y="1086" width="120" height="50" as="geometry" />
@@ -446,7 +446,7 @@
           <mxGeometry x="1443" y="1250" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-185" value="학교별 네트워크 장비 사용 현황 조회" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="-1480" y="1087" width="120" height="50" as="geometry" />
+          <mxGeometry x="230" y="940" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-187" value="허용된 IP를 사용하는 관리자PC만 컨트롤러에 접근 가능" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-938" y="580" width="120" height="50" as="geometry" />
@@ -551,7 +551,7 @@
           <mxGeometry x="132" y="795" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nBXMqKJNdPmPoWQ_-GRA-7" value="학교별 도면 및&lt;br&gt;포트맵 정보" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-1619" y="1153" width="120" height="50" as="geometry" />
+          <mxGeometry x="-1480" y="1086" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nBXMqKJNdPmPoWQ_-GRA-9" value="학교별 네트워크 장비&lt;br&gt;모델 및 연동상태" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-208" y="800" width="128" height="50" as="geometry" />
@@ -566,7 +566,7 @@
           <mxGeometry x="-1550" y="900" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nBXMqKJNdPmPoWQ_-GRA-29" value="컨트롤러 상태(CPU,&lt;br&gt;메모리, 디스크 등) 등 모니터링 기능" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="630" width="120" height="50" as="geometry" />
+          <mxGeometry x="1110" y="560" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nBXMqKJNdPmPoWQ_-GRA-30" value="정책 관리" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#b85450;fillColor=#f8cecc;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="-1298.5" y="910" width="120" height="40" as="geometry" />
