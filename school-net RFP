@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-06-24T04:31:47.372Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="arho-XfQmjFZVEFAFpg3" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-24T04:33:17.125Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="eXz9RHFO_9_iIIb4_gDj" version="14.8.0" type="github">
   <diagram id="bMZPnwvL7SEXYUuxO_6x" name="Page-1">
     <mxGraphModel dx="3140" dy="945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-156" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="1386" width="145" height="204" as="geometry" />
+        </mxCell>
         <mxCell id="nBXMqKJNdPmPoWQ_-GRA-154" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="-1016.5" y="1533" width="145" height="229" as="geometry" />
         </mxCell>
@@ -403,7 +406,7 @@
           <mxGeometry x="421" y="1510" width="137" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-196" value="네트워크 장비 접근 제한을 위한 보안 기능 제공&lt;br&gt;(RADIUS, TACCAS+)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="-1070" y="1332.5" width="137" height="50" as="geometry" />
+          <mxGeometry x="-747.5" y="1580" width="137" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nBXMqKJNdPmPoWQ_-GRA-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="nBXMqKJNdPmPoWQ_-GRA-137" target="sN2intRHHpBrYbzuMWN3-189">
           <mxGeometry relative="1" as="geometry">
@@ -470,11 +473,11 @@
         <mxCell id="sN2intRHHpBrYbzuMWN3-224" value="&lt;p class=&quot;0&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="612" y="1630" width="550" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="sN2intRHHpBrYbzuMWN3-227" value="&lt;p class=&quot;0&quot; style=&quot;line-height: 20%&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: &amp;#34;kopubdotummedium&amp;#34; ; letter-spacing: 0pt ; font-size: 11.0pt ; color: #313131&quot;&gt;NBI &lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;kopubdotummedium&amp;#34; ; font-size: 11.0pt ; color: #313131&quot;&gt;프로토콜&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;0&quot; style=&quot;line-height: 120%&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;kopubdotummedium&amp;#34; ; font-size: 11pt ; color: rgb(49 , 49 , 49)&quot;&gt;제공&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: &amp;#34;kopubdotummedium&amp;#34; ; letter-spacing: 0pt ; font-size: 11pt ; color: rgb(49 , 49 , 49)&quot;&gt;&amp;nbsp;(REST API, ...)&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="-186.5" y="1540" width="200" height="50" as="geometry" />
+        <mxCell id="sN2intRHHpBrYbzuMWN3-227" value="&lt;p class=&quot;0&quot; style=&quot;line-height: 20%&quot;&gt;&lt;font color=&quot;#313131&quot; face=&quot;kopubdotummedium&quot;&gt;&lt;span style=&quot;font-size: 14.6667px&quot;&gt;NBI 프로토콜&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p class=&quot;0&quot; style=&quot;line-height: 20%&quot;&gt;&lt;font color=&quot;#313131&quot; face=&quot;kopubdotummedium&quot;&gt;&lt;span style=&quot;font-size: 14.6667px&quot;&gt;(REST API...)&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="-181.25" y="1510" width="127.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="sN2intRHHpBrYbzuMWN3-228" value="&lt;p class=&quot;0&quot; style=&quot;line-height: 120%&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: &amp;#34;kopubdotummedium&amp;#34; ; letter-spacing: 0pt ; font-size: 11.0pt ; color: #313131&quot;&gt;SBI &lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;kopubdotummedium&amp;#34; ; font-size: 11.0pt ; color: #313131&quot;&gt;프로토콜을 제공&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: &amp;#34;kopubdotummedium&amp;#34; ; letter-spacing: 0pt ; font-size: 11.0pt ; color: #313131&quot;&gt;(Openflow, Netconf/Yang, OVSDB ...)&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="-186.5" y="1460" width="200" height="50" as="geometry" />
+        <mxCell id="sN2intRHHpBrYbzuMWN3-228" value="&lt;p class=&quot;0&quot; style=&quot;line-height: 120%&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: &amp;#34;kopubdotummedium&amp;#34; ; letter-spacing: 0pt ; font-size: 11.0pt ; color: #313131&quot;&gt;SBI &lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;kopubdotummedium&amp;#34; ; font-size: 11.0pt ; color: #313131&quot;&gt;프로토콜&lt;/span&gt;&lt;span style=&quot;color: rgb(49 , 49 , 49) ; font-family: &amp;#34;kopubdotummedium&amp;#34; ; font-size: 11pt ; letter-spacing: 0pt&quot;&gt;(Openflow, Netconf/Yang, OVSDB ...)&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="-181.25" y="1429" width="127.5" height="64.5" as="geometry" />
         </mxCell>
         <mxCell id="pUOcT97VCcXrqS7l1f5j-1" value="[스쿨넷 RFP]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#000000;fontSize=100;" parent="1" vertex="1">
           <mxGeometry x="-1599" y="120" width="660" height="20" as="geometry" />
@@ -670,11 +673,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="nBXMqKJNdPmPoWQ_-GRA-137" target="nBXMqKJNdPmPoWQ_-GRA-153">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-360" y="1460" />
+              <mxPoint x="-944" y="1460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="nBXMqKJNdPmPoWQ_-GRA-137" value="보안" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-420" y="1370" width="120" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-138" value="프로토콜" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-146.5" y="1371" width="120" height="49" as="geometry" />
         </mxCell>
         <mxCell id="nBXMqKJNdPmPoWQ_-GRA-139" value="모니터링" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="90" y="1371" width="120" height="49" as="geometry" />
@@ -693,6 +701,9 @@
         </mxCell>
         <mxCell id="nBXMqKJNdPmPoWQ_-GRA-153" value="?" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#b85450;fillColor=#f8cecc;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="-1004" y="1520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-160" value="프로토콜" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#b85450;fillColor=#f8cecc;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-177.5" y="1373" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
