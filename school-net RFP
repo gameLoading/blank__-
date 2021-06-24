@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-06-24T04:31:16.823Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="zubZunx87LaD2dXD8Rcw" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-24T04:31:47.372Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="arho-XfQmjFZVEFAFpg3" version="14.8.0" type="github">
   <diagram id="bMZPnwvL7SEXYUuxO_6x" name="Page-1">
     <mxGraphModel dx="3140" dy="945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-154" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-1016.5" y="1533" width="145" height="229" as="geometry" />
+        </mxCell>
         <mxCell id="nBXMqKJNdPmPoWQ_-GRA-150" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="-1220.5" y="1533" width="145" height="229" as="geometry" />
         </mxCell>
@@ -408,16 +411,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-200" value="컨트롤러 정책 암호화&amp;nbsp;&lt;br&gt;기능 제공" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="-1620" y="1460" width="137" height="50" as="geometry" />
+          <mxGeometry x="-1010" y="1630" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-201" value="SDN 스위치 보안패치&lt;br&gt;기능 지원" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1271" y="500" width="137" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-202" value="바이러스 및 웜에&amp;nbsp;&lt;br&gt;대한 대응" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="-1640" y="1382.5" width="132" height="45" as="geometry" />
+          <mxGeometry x="-1010" y="1570" width="132" height="45" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-203" value="사용자 단말의&lt;br&gt;필수 프로그램 미설치&amp;nbsp;&lt;br&gt;시 차단격리기능 추가" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="-1468" y="1371.5" width="150" height="57.5" as="geometry" />
+          <mxGeometry x="-1010" y="1692.5" width="130" height="57.5" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-233" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" parent="1" source="sN2intRHHpBrYbzuMWN3-204" target="sN2intRHHpBrYbzuMWN3-205" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -687,6 +690,9 @@
         </mxCell>
         <mxCell id="nBXMqKJNdPmPoWQ_-GRA-151" value="관리자 보안" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#b85450;fillColor=#f8cecc;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="-1208" y="1520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-153" value="?" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#b85450;fillColor=#f8cecc;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-1004" y="1520" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
