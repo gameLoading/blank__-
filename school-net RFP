@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-24T05:12:18.270Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="s0b0NeKXC85fxSbaqmJz" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-24T05:12:36.043Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="W83zjVPlz9A1sUrw845b" version="14.8.0" type="github">
   <diagram id="bMZPnwvL7SEXYUuxO_6x" name="Page-1">
-    <mxGraphModel dx="9084" dy="4725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5900" dy="2700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -469,8 +469,8 @@
         <mxCell id="sN2intRHHpBrYbzuMWN3-228" value="&lt;p class=&quot;0&quot; style=&quot;line-height: 120%&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: &amp;#34;kopubdotummedium&amp;#34; ; letter-spacing: 0pt ; font-size: 11.0pt ; color: #313131&quot;&gt;SBI &lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;kopubdotummedium&amp;#34; ; font-size: 11.0pt ; color: #313131&quot;&gt;프로토콜&lt;/span&gt;&lt;span style=&quot;color: rgb(49 , 49 , 49) ; font-family: &amp;#34;kopubdotummedium&amp;#34; ; font-size: 11pt ; letter-spacing: 0pt&quot;&gt;(Openflow, Netconf/Yang, OVSDB ...)&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-228.25" y="1529" width="127.5" height="64.5" as="geometry" />
         </mxCell>
-        <mxCell id="pUOcT97VCcXrqS7l1f5j-1" value="[스쿨넷 요구사항 ]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#000000;fontSize=100;" parent="1" vertex="1">
-          <mxGeometry x="-1599" y="120" width="819" height="20" as="geometry" />
+        <mxCell id="pUOcT97VCcXrqS7l1f5j-1" value="&lt;b&gt;[스쿨넷 요구사항 ]&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#000000;fontSize=100;" parent="1" vertex="1">
+          <mxGeometry x="-1599" y="120" width="919" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nBXMqKJNdPmPoWQ_-GRA-3" value="운영 관리 학교 네트워크 현황 요약 &lt;br&gt;실시간 대시보드 확인 가능" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="-883" y="983" width="430" height="50" as="geometry" />
