@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-24T05:36:44.982Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="6oc4G2dS1QN_7Huyupx5" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-24T05:38:48.850Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="3umcEHxSlt5fV6TybFIm" version="14.8.0" type="github">
   <diagram id="bMZPnwvL7SEXYUuxO_6x" name="Page-1">
-    <mxGraphModel dx="9247" dy="4700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7349" dy="3525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -457,8 +457,8 @@
         <mxCell id="sN2intRHHpBrYbzuMWN3-228" value="&lt;p class=&quot;0&quot; style=&quot;line-height: 120%&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: &amp;#34;kopubdotummedium&amp;#34; ; letter-spacing: 0pt ; font-size: 11.0pt ; color: #313131&quot;&gt;SBI &lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;kopubdotummedium&amp;#34; ; font-size: 11.0pt ; color: #313131&quot;&gt;프로토콜&lt;/span&gt;&lt;span style=&quot;color: rgb(49 , 49 , 49) ; font-family: &amp;#34;kopubdotummedium&amp;#34; ; font-size: 11pt ; letter-spacing: 0pt&quot;&gt;(Openflow, Netconf/Yang, OVSDB ...)&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-216.25" y="1529" width="127.5" height="64.5" as="geometry" />
         </mxCell>
-        <mxCell id="pUOcT97VCcXrqS7l1f5j-1" value="&lt;b&gt;[스쿨넷 요구사항]&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#000000;fontSize=100;" parent="1" vertex="1">
-          <mxGeometry x="-1599" y="120" width="919" height="20" as="geometry" />
+        <mxCell id="pUOcT97VCcXrqS7l1f5j-1" value="&lt;b&gt;스쿨넷 요구사항&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#000000;fontSize=100;" parent="1" vertex="1">
+          <mxGeometry x="-1653.5" y="110" width="919" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nBXMqKJNdPmPoWQ_-GRA-3" value="운영 관리 학교 네트워크 현황 요약 &lt;br&gt;실시간 대시보드 확인 가능" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="-883" y="983" width="430" height="50" as="geometry" />
@@ -844,17 +844,17 @@
         <mxCell id="2CJF6UvZkdjvXSNEMhZS-46" value="컨트롤러 정책 암호화&amp;nbsp;&lt;br&gt;기능 제공" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;dashed=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-1057" y="1730" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="2CJF6UvZkdjvXSNEMhZS-49" value="&lt;font style=&quot;font-size: 100px;&quot;&gt;NMS 관련&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=100;fontStyle=1;textOpacity=50;" vertex="1" parent="1">
-          <mxGeometry x="-1590" y="280" width="560" height="220" as="geometry" />
+        <mxCell id="2CJF6UvZkdjvXSNEMhZS-49" value="계정 관리" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=100;fontStyle=1;textOpacity=50;" vertex="1" parent="1">
+          <mxGeometry x="-1590" y="280" width="630" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="2CJF6UvZkdjvXSNEMhZS-52" value="&lt;font style=&quot;font-size: 100px&quot;&gt;보안 관련&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=100;fontStyle=1;textOpacity=50;" vertex="1" parent="1">
+        <mxCell id="2CJF6UvZkdjvXSNEMhZS-52" value="&lt;font style=&quot;font-size: 100px&quot;&gt;보안&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=100;fontStyle=1;textOpacity=50;" vertex="1" parent="1">
           <mxGeometry x="-1570" y="2050" width="560" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="2CJF6UvZkdjvXSNEMhZS-53" value="&lt;font style=&quot;font-size: 100px&quot;&gt;보안 관련&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=100;fontStyle=1;textOpacity=50;" vertex="1" parent="1">
-          <mxGeometry x="1049" y="2060" width="560" height="220" as="geometry" />
+        <mxCell id="2CJF6UvZkdjvXSNEMhZS-53" value="&lt;font style=&quot;font-size: 100px&quot;&gt;기타 요구사항&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=100;fontStyle=1;textOpacity=50;" vertex="1" parent="1">
+          <mxGeometry x="950" y="2060" width="659" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="2CJF6UvZkdjvXSNEMhZS-54" value="&lt;font style=&quot;font-size: 100px&quot;&gt;보안 관련&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=100;fontStyle=1;textOpacity=50;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="260" width="560" height="220" as="geometry" />
+        <mxCell id="2CJF6UvZkdjvXSNEMhZS-54" value="&lt;font style=&quot;font-size: 100px&quot;&gt;네트워크 관련&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=100;fontStyle=1;textOpacity=50;" vertex="1" parent="1">
+          <mxGeometry x="950" y="260" width="680" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
