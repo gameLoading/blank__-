@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-24T01:18:52.523Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="RcOEbaGuTedPjfiP-HIN" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-24T01:19:05.866Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="B8M6Wi4XpHPW5X35Qq-D" version="14.8.0" type="github">
   <diagram id="bMZPnwvL7SEXYUuxO_6x" name="Page-1">
     <mxGraphModel dx="3194" dy="945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -401,10 +401,10 @@
           <mxGeometry x="700" y="960" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-160" value="각 학교별 단말의&lt;br&gt;IP 및 MAC 충돌&amp;nbsp;&lt;br&gt;탐지 기능" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="514" y="1010" width="120" height="50" as="geometry" />
+          <mxGeometry x="-44" y="800" width="134" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-161" value="각 학교별 네트워크&lt;br&gt;장비별 연결된&lt;br&gt;단말정보 모니터링" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="520" y="1087" width="120" height="50" as="geometry" />
+          <mxGeometry x="-44" y="871" width="134" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-162" value="SDN 네트워크 장비&lt;br&gt;운영 기록 로깅, 장애 발생 시 로그를 통한&lt;br&gt;원인분석 가능" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="768" y="1025" width="120" height="50" as="geometry" />
