@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-24T06:07:50.248Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="mGtesgIzSo4fxqRKb8oi" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-24T06:08:00.137Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="8g1sgWl4w7BEuhJafCFb" version="14.8.0" type="github">
   <diagram id="bMZPnwvL7SEXYUuxO_6x" name="Page-1">
-    <mxGraphModel dx="3466" dy="1112" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6164" dy="2674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -787,7 +787,7 @@
         <mxCell id="nBXMqKJNdPmPoWQ_-GRA-202" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="1384" y="1499" width="182" height="211" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-203" value="기타" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-203" value="기타" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1416" y="1480" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nBXMqKJNdPmPoWQ_-GRA-204" value="RAID 0/1/1+0 지원" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
