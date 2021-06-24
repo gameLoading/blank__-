@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-24T01:13:26.426Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="CvHmzs09KIq3i7jzNhDd" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-24T01:14:16.336Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="Zjfza2WM35TXpWqOGONO" version="14.8.0" type="github">
   <diagram id="bMZPnwvL7SEXYUuxO_6x" name="Page-1">
     <mxGraphModel dx="3466" dy="1112" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry x="312" y="1440" width="1340" height="170" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-230" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="312" y="1230" width="1330" height="90" as="geometry" />
+          <mxGeometry x="270" y="1230" width="1330" height="90" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-197" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-1450" y="550" width="652" height="240" as="geometry" />
@@ -397,7 +397,7 @@
           <mxGeometry x="514" y="1010" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-161" value="각 학교별 네트워크&lt;br&gt;장비별 연결된&lt;br&gt;단말정보 모니터링" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="493" y="1040" width="120" height="50" as="geometry" />
+          <mxGeometry x="520" y="1087" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-162" value="SDN 네트워크 장비&lt;br&gt;운영 기록 로깅, 장애 발생 시 로그를 통한&lt;br&gt;원인분석 가능" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="768" y="1025" width="120" height="50" as="geometry" />
@@ -533,9 +533,6 @@
         <mxCell id="nBXMqKJNdPmPoWQ_-GRA-3" value="운영 관리 학교 네트워크 현황 요약 &lt;br&gt;실시간 대시보드 확인 가능" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="-914" y="1253" width="430" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nBXMqKJNdPmPoWQ_-GRA-4" target="nBXMqKJNdPmPoWQ_-GRA-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="nBXMqKJNdPmPoWQ_-GRA-4" value="전체 학교 네트워크 &lt;br&gt;현황&amp;nbsp;요약 실시간 &lt;br&gt;대시보드 확인 가능" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="-424" y="1194" width="140" height="42" as="geometry" />
         </mxCell>
@@ -574,6 +571,9 @@
         </mxCell>
         <mxCell id="nBXMqKJNdPmPoWQ_-GRA-36" value="단말 그룹핑" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#b85450;fillColor=#f8cecc;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="-1117" y="910" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-45" value="?" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="550" width="130" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
