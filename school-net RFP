@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-24T01:20:00.903Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="4vB28X_uD0Zt9PTYgwNU" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-24T01:20:10.893Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="nWPNGYWTCzh1J_cIAGqF" version="14.8.0" type="github">
   <diagram id="bMZPnwvL7SEXYUuxO_6x" name="Page-1">
-    <mxGraphModel dx="3194" dy="945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3466" dy="1112" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -125,7 +125,7 @@
             <mxPoint x="192" y="600" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="192" y="650" />
-              <mxPoint x="382" y="650" />
+              <mxPoint x="360" y="650" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -223,7 +223,7 @@
           <mxGeometry x="798" y="160" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-40" value="E2E&amp;nbsp; 자동경로제어" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="322" y="721" width="120" height="50" as="geometry" />
+          <mxGeometry x="300" y="721" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-42" value="IP Mobility" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="968" y="160" width="120" height="50" as="geometry" />
@@ -398,7 +398,7 @@
           <mxGeometry x="-1619" y="1086" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-159" value="학교별 단말 자동 &lt;br&gt;탐색 기능 제공" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="322" y="870" width="120" height="50" as="geometry" />
+          <mxGeometry x="300" y="870" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-160" value="각 학교별 단말의&lt;br&gt;IP 및 MAC 충돌&amp;nbsp;&lt;br&gt;탐지 기능" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-44" y="800" width="134" height="50" as="geometry" />
@@ -545,7 +545,7 @@
           <mxGeometry x="-424" y="1194" width="140" height="42" as="geometry" />
         </mxCell>
         <mxCell id="nBXMqKJNdPmPoWQ_-GRA-5" value="학교별 실시간&lt;br&gt;토폴로지 제공" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="322" y="795" width="120" height="50" as="geometry" />
+          <mxGeometry x="300" y="795" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nBXMqKJNdPmPoWQ_-GRA-6" value="학교별 실시간&lt;br&gt;트래픽 정보 제공" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="132" y="795" width="120" height="50" as="geometry" />
