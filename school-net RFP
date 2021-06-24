@@ -1,64 +1,76 @@
-<mxfile host="app.diagrams.net" modified="2021-06-24T05:12:39.293Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="GcRA7bAfkaRZovnLSRzG" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-24T05:28:58.811Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="ko33k-JujIBMpGw7YiBf" version="14.8.0" type="github">
   <diagram id="bMZPnwvL7SEXYUuxO_6x" name="Page-1">
-    <mxGraphModel dx="5900" dy="2700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="9247" dy="4700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-210" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="2CJF6UvZkdjvXSNEMhZS-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1620" y="1210" width="1360" height="1100" as="geometry" />
+        </mxCell>
+        <mxCell id="2CJF6UvZkdjvXSNEMhZS-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="1210" width="1890" height="1100" as="geometry" />
+        </mxCell>
+        <mxCell id="2CJF6UvZkdjvXSNEMhZS-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="247" width="1890" height="950" as="geometry" />
+        </mxCell>
+        <mxCell id="2CJF6UvZkdjvXSNEMhZS-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1620" y="247" width="1360" height="950" as="geometry" />
+        </mxCell>
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-210" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-607" y="1636" width="160" height="134" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-200" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-200" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="23.5" y="1498" width="159.5" height="232" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-182" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-182" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="966" y="1499" width="367" height="351" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-174" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-174" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="743" y="1498" width="170" height="272" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-172" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-172" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="518" y="1498" width="170" height="432" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-167" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-167" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-847" y="1640" width="160" height="154" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-156" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-156" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-237" y="1490" width="145" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-154" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-154" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-1063.5" y="1633" width="145" height="229" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-150" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-150" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-1267.5" y="1633" width="145" height="229" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-123" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-123" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1474.5" y="688" width="151.5" height="233" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-110" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-110" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1158" y="687" width="280" height="233" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-104" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-104" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="960" y="685" width="160" height="175" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-101" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-101" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="316" y="780" width="572" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-96" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-96" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1468" y="154" width="160" height="196" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-54" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-54" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-26.5" y="714" width="307" height="354" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-51" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-51" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-230" y="703" width="180" height="258" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-37" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-37" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-1095" y="655" width="140" height="195" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-31" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-31" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-1280" y="653" width="145" height="229" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-23" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-23" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-1599" y="651" width="280" height="229" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-230" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" parent="1" vertex="1">
@@ -89,7 +101,7 @@
         <mxCell id="sN2intRHHpBrYbzuMWN3-1" value="스쿨넷 RFP - 1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry y="260" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="sN2intRHHpBrYbzuMWN3-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="sN2intRHHpBrYbzuMWN3-2" edge="1" target="sN2intRHHpBrYbzuMWN3-24">
+        <mxCell id="sN2intRHHpBrYbzuMWN3-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="sN2intRHHpBrYbzuMWN3-2" target="sN2intRHHpBrYbzuMWN3-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-330" y="540" as="targetPoint" />
             <Array as="points">
@@ -110,7 +122,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sN2intRHHpBrYbzuMWN3-4" target="nBXMqKJNdPmPoWQ_-GRA-35">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="sN2intRHHpBrYbzuMWN3-4" target="nBXMqKJNdPmPoWQ_-GRA-35" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="310" y="510" />
@@ -118,7 +130,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sN2intRHHpBrYbzuMWN3-4" target="nBXMqKJNdPmPoWQ_-GRA-33">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sN2intRHHpBrYbzuMWN3-4" target="nBXMqKJNdPmPoWQ_-GRA-33" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="310" y="510" />
@@ -144,7 +156,7 @@
             <mxPoint x="-438.0000000000009" y="563" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sN2intRHHpBrYbzuMWN3-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1" target="sN2intRHHpBrYbzuMWN3-76">
+        <mxCell id="sN2intRHHpBrYbzuMWN3-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="sN2intRHHpBrYbzuMWN3-76" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-953" y="640" as="targetPoint" />
             <Array as="points">
@@ -165,7 +177,7 @@
             <mxPoint x="-438.0000000000009" y="563" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sN2intRHHpBrYbzuMWN3-24" target="nBXMqKJNdPmPoWQ_-GRA-30">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="sN2intRHHpBrYbzuMWN3-24" target="nBXMqKJNdPmPoWQ_-GRA-30" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-438.0000000000009" y="563" as="sourcePoint" />
             <Array as="points">
@@ -174,7 +186,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="sN2intRHHpBrYbzuMWN3-24" target="nBXMqKJNdPmPoWQ_-GRA-21">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="sN2intRHHpBrYbzuMWN3-24" target="nBXMqKJNdPmPoWQ_-GRA-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-438.0000000000009" y="563" as="sourcePoint" />
             <Array as="points">
@@ -183,7 +195,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sN2intRHHpBrYbzuMWN3-24" target="sN2intRHHpBrYbzuMWN3-96">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="sN2intRHHpBrYbzuMWN3-24" target="sN2intRHHpBrYbzuMWN3-96" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-492" y="600" />
@@ -191,7 +203,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sN2intRHHpBrYbzuMWN3-24" target="sN2intRHHpBrYbzuMWN3-13">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="sN2intRHHpBrYbzuMWN3-24" target="sN2intRHHpBrYbzuMWN3-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-24" value="학교별 그룹핑" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
@@ -218,7 +230,7 @@
         <mxCell id="sN2intRHHpBrYbzuMWN3-43" value="논리적 망분리" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="1487" y="282" width="122" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sN2intRHHpBrYbzuMWN3-45" target="nBXMqKJNdPmPoWQ_-GRA-50">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="sN2intRHHpBrYbzuMWN3-45" target="nBXMqKJNdPmPoWQ_-GRA-50" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="130" y="650" />
@@ -226,7 +238,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sN2intRHHpBrYbzuMWN3-45" target="nBXMqKJNdPmPoWQ_-GRA-68">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="sN2intRHHpBrYbzuMWN3-45" target="nBXMqKJNdPmPoWQ_-GRA-68" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="130" y="650" />
@@ -234,7 +246,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.519;entryY=0.036;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sN2intRHHpBrYbzuMWN3-45" target="nBXMqKJNdPmPoWQ_-GRA-53">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.519;entryY=0.036;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="sN2intRHHpBrYbzuMWN3-45" target="nBXMqKJNdPmPoWQ_-GRA-53" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
@@ -268,7 +280,7 @@
         <mxCell id="sN2intRHHpBrYbzuMWN3-70" value="정책적용 현황&lt;br&gt;상세 정보" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-1267.5" y="692.5" width="120" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="sN2intRHHpBrYbzuMWN3-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" target="sN2intRHHpBrYbzuMWN3-88" edge="1" source="sN2intRHHpBrYbzuMWN3-76">
+        <mxCell id="sN2intRHHpBrYbzuMWN3-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="sN2intRHHpBrYbzuMWN3-76" target="sN2intRHHpBrYbzuMWN3-88" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-833" y="790" as="targetPoint" />
             <mxPoint x="-833" y="730" as="sourcePoint" />
@@ -442,10 +454,10 @@
         <mxCell id="sN2intRHHpBrYbzuMWN3-214" value="&lt;p class=&quot;0&quot; style=&quot;line-height: 120%; font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; color: rgb(49, 49, 49); font-family: kopubdotummedium;&quot;&gt;기존 네트워크 장비(L2/3) 장비와 상호 연동성을&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(49, 49, 49); font-family: kopubdotummedium; font-size: 12px;&quot;&gt;보장(STATIC / OSPF / BGP Peering, LAG, LACP, VRRP 프로토콜 등)&amp;nbsp;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;spacing=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="1143" y="1529" width="170" height="141" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="sN2intRHHpBrYbzuMWN3-216" target="nBXMqKJNdPmPoWQ_-GRA-187">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" parent="1" source="sN2intRHHpBrYbzuMWN3-216" target="nBXMqKJNdPmPoWQ_-GRA-187" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="sN2intRHHpBrYbzuMWN3-216" target="nBXMqKJNdPmPoWQ_-GRA-188">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" parent="1" source="sN2intRHHpBrYbzuMWN3-216" target="nBXMqKJNdPmPoWQ_-GRA-188" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-216" value="&lt;p class=&quot;0&quot; style=&quot;line-height: 120%; font-size: 12px;&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: kopubdotummedium; letter-spacing: 0pt; font-size: 12px; color: rgb(49, 49, 49);&quot;&gt;IPv4 / 6 &lt;/span&gt;&lt;span style=&quot;font-family: kopubdotummedium; font-size: 12px; color: rgb(49, 49, 49);&quot;&gt;듀얼스택 기능 지원&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=12;" parent="1" vertex="1">
@@ -472,40 +484,40 @@
         <mxCell id="pUOcT97VCcXrqS7l1f5j-1" value="&lt;b&gt;[스쿨넷 요구사항]&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#000000;fontSize=100;" parent="1" vertex="1">
           <mxGeometry x="-1599" y="120" width="919" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-3" value="운영 관리 학교 네트워크 현황 요약 &lt;br&gt;실시간 대시보드 확인 가능" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-3" value="운영 관리 학교 네트워크 현황 요약 &lt;br&gt;실시간 대시보드 확인 가능" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="-883" y="983" width="430" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-4" value="전체 학교 네트워크 &lt;br&gt;현황&amp;nbsp;요약 실시간 &lt;br&gt;대시보드 확인 가능" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-4" value="전체 학교 네트워크 &lt;br&gt;현황&amp;nbsp;요약 실시간 &lt;br&gt;대시보드 확인 가능" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="-520" y="755" width="140" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-5" value="실시간 토폴로지 제공" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-5" value="실시간 토폴로지 제공" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="140.5" y="815" width="121" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-6" value="실시간 트래픽 &lt;br&gt;정보 제공" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-6" value="실시간 트래픽 &lt;br&gt;정보 제공" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="140.5" y="748" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-7" value="학교별 도면 및&lt;br&gt;포트맵 정보" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-7" value="학교별 도면 및&lt;br&gt;포트맵 정보" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-1589" y="818" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-9" value="네트워크 장비&lt;br&gt;모델 및 연동상태" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-9" value="네트워크 장비&lt;br&gt;모델 및 연동상태" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2.5" y="748" width="128" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-10" value="학교별 네트워크&lt;br&gt;장비의 구체적인&lt;br&gt;설치위치 정보" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-10" value="학교별 네트워크&lt;br&gt;장비의 구체적인&lt;br&gt;설치위치 정보" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-1589" y="687" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-21" value="학교별 관리 정보" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#b85450;fillColor=#f8cecc;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-21" value="학교별 관리 정보" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#b85450;fillColor=#f8cecc;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-1519" y="630" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-29" value="컨트롤러 상태(CPU,&lt;br&gt;메모리, 디스크 등) 등 모니터링 기능" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-29" value="컨트롤러 상태(CPU,&lt;br&gt;메모리, 디스크 등) 등 모니터링 기능" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="32" y="1529" width="141" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-30" value="정책 관리" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#b85450;fillColor=#f8cecc;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-30" value="정책 관리" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#b85450;fillColor=#f8cecc;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-1267.5" y="640" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nBXMqKJNdPmPoWQ_-GRA-33" target="nBXMqKJNdPmPoWQ_-GRA-103">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nBXMqKJNdPmPoWQ_-GRA-33" target="nBXMqKJNdPmPoWQ_-GRA-103" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nBXMqKJNdPmPoWQ_-GRA-33" target="nBXMqKJNdPmPoWQ_-GRA-109">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nBXMqKJNdPmPoWQ_-GRA-33" target="nBXMqKJNdPmPoWQ_-GRA-109" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1106" y="635" />
@@ -513,7 +525,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nBXMqKJNdPmPoWQ_-GRA-33" target="nBXMqKJNdPmPoWQ_-GRA-124">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nBXMqKJNdPmPoWQ_-GRA-33" target="nBXMqKJNdPmPoWQ_-GRA-124" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1106" y="634" />
@@ -521,10 +533,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-33" value="SNMP" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-33" value="SNMP" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="1041" y="550" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nBXMqKJNdPmPoWQ_-GRA-35" target="sN2intRHHpBrYbzuMWN3-157">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nBXMqKJNdPmPoWQ_-GRA-35" target="sN2intRHHpBrYbzuMWN3-157" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="718" y="625" />
@@ -532,7 +544,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nBXMqKJNdPmPoWQ_-GRA-35" target="sN2intRHHpBrYbzuMWN3-162">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nBXMqKJNdPmPoWQ_-GRA-35" target="sN2intRHHpBrYbzuMWN3-162" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="718" y="625" />
@@ -540,22 +552,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-35" value="Syslog" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-35" value="Syslog" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="653" y="550" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-36" value="단말 그룹핑" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#b85450;fillColor=#f8cecc;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-36" value="단말 그룹핑" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#b85450;fillColor=#f8cecc;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-1086" y="640" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-50" value="프로토콜" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-50" value="프로토콜" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-200" y="688" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-53" value="모니터링" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-53" value="모니터링" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="67" y="702" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-66" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-66" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" parent="1" vertex="1">
           <mxGeometry x="104" y="805" width="23.5" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nBXMqKJNdPmPoWQ_-GRA-68" target="sN2intRHHpBrYbzuMWN3-31">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nBXMqKJNdPmPoWQ_-GRA-68" target="sN2intRHHpBrYbzuMWN3-31" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="501" y="810" />
@@ -563,7 +575,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nBXMqKJNdPmPoWQ_-GRA-68" target="sN2intRHHpBrYbzuMWN3-61">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nBXMqKJNdPmPoWQ_-GRA-68" target="sN2intRHHpBrYbzuMWN3-61" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="501" y="810" />
@@ -571,7 +583,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nBXMqKJNdPmPoWQ_-GRA-68" target="sN2intRHHpBrYbzuMWN3-47">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nBXMqKJNdPmPoWQ_-GRA-68" target="sN2intRHHpBrYbzuMWN3-47" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="501" y="810" />
@@ -579,58 +591,58 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-68" value="제어 및 기능" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-68" value="제어 및 기능" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="441" y="760" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-74" value="단말 자동 &lt;br&gt;탐색 기능 제공" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-74" value="단말 자동 &lt;br&gt;탐색 기능 제공" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2.5" y="1006" width="128.5" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-78" value="상기 정보는 학교별로 관리,&lt;br&gt;GUI로 제공되어야 함" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-78" value="상기 정보는 학교별로 관리,&lt;br&gt;GUI로 제공되어야 함" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="141.5" y="1006" width="120" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-95" value="?" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-95" value="?" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="1484" y="140" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-98" value="Openflow 1.0 지원" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-98" value="Openflow 1.0 지원" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-207.5" y="891" width="135" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-103" value="프로토콜" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-103" value="프로토콜" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="980" y="670" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-105" value="SNMP v2" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-105" value="SNMP v2" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="980" y="727" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-106" value="SNMP v3" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-106" value="SNMP v3" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="980" y="795" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-109" value="모니터링 정보" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-109" value="모니터링 정보" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="1238" y="670" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-111" value="CPU 사용량" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-111" value="CPU 사용량" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1171" y="791.75" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-112" value="메모리 사용량" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-112" value="메모리 사용량" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1171" y="860" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-113" value="포트 업다운" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-113" value="포트 업다운" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1489" y="795" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-114" value="Uptime 정보" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-114" value="Uptime 정보" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1308" y="727" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-115" value="디스크 사용량" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-115" value="디스크 사용량" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1308" y="791.75" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-116" value="온도 정보" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-116" value="온도 정보" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1308" y="861" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-118" value="펌웨어 업데이트" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-118" value="펌웨어 업데이트" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1489" y="860" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-124" value="제어 및 기능" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-124" value="제어 및 기능" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="1488" y="675" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nBXMqKJNdPmPoWQ_-GRA-128">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nBXMqKJNdPmPoWQ_-GRA-128" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="367" y="1480" as="targetPoint" />
             <Array as="points">
@@ -639,7 +651,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nBXMqKJNdPmPoWQ_-GRA-128">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nBXMqKJNdPmPoWQ_-GRA-128" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-407.00000000000045" y="1470" as="targetPoint" />
             <Array as="points">
@@ -648,7 +660,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="nBXMqKJNdPmPoWQ_-GRA-128" target="nBXMqKJNdPmPoWQ_-GRA-160">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="nBXMqKJNdPmPoWQ_-GRA-128" target="nBXMqKJNdPmPoWQ_-GRA-160" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="43" y="1410" />
@@ -656,7 +668,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="nBXMqKJNdPmPoWQ_-GRA-128">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" parent="1" source="nBXMqKJNdPmPoWQ_-GRA-128" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="103" y="1471" as="targetPoint" />
             <Array as="points">
@@ -665,7 +677,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="nBXMqKJNdPmPoWQ_-GRA-128" target="nBXMqKJNdPmPoWQ_-GRA-171">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" parent="1" source="nBXMqKJNdPmPoWQ_-GRA-128" target="nBXMqKJNdPmPoWQ_-GRA-171" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="43" y="1410" />
@@ -673,7 +685,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="nBXMqKJNdPmPoWQ_-GRA-128" target="nBXMqKJNdPmPoWQ_-GRA-175">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" parent="1" source="nBXMqKJNdPmPoWQ_-GRA-128" target="nBXMqKJNdPmPoWQ_-GRA-175" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="43" y="1410" />
@@ -681,7 +693,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="nBXMqKJNdPmPoWQ_-GRA-128" target="nBXMqKJNdPmPoWQ_-GRA-181">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" parent="1" source="nBXMqKJNdPmPoWQ_-GRA-128" target="nBXMqKJNdPmPoWQ_-GRA-181" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="43" y="1410" />
@@ -689,7 +701,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="nBXMqKJNdPmPoWQ_-GRA-128">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="nBXMqKJNdPmPoWQ_-GRA-128" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1483" y="1490" as="targetPoint" />
             <Array as="points">
@@ -698,10 +710,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-128" value="스쿨넷 RFP - 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-128" value="스쿨넷 RFP - 2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-17" y="1320" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="nBXMqKJNdPmPoWQ_-GRA-137">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="nBXMqKJNdPmPoWQ_-GRA-137" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1197" y="1620" as="targetPoint" />
             <Array as="points">
@@ -710,7 +722,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="nBXMqKJNdPmPoWQ_-GRA-137" target="nBXMqKJNdPmPoWQ_-GRA-153">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" parent="1" source="nBXMqKJNdPmPoWQ_-GRA-137" target="nBXMqKJNdPmPoWQ_-GRA-153" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-407" y="1560" />
@@ -718,7 +730,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="nBXMqKJNdPmPoWQ_-GRA-137" target="nBXMqKJNdPmPoWQ_-GRA-163">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="nBXMqKJNdPmPoWQ_-GRA-137" target="nBXMqKJNdPmPoWQ_-GRA-163" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-407" y="1560" />
@@ -726,7 +738,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-212" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nBXMqKJNdPmPoWQ_-GRA-137" target="nBXMqKJNdPmPoWQ_-GRA-209">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-212" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nBXMqKJNdPmPoWQ_-GRA-137" target="nBXMqKJNdPmPoWQ_-GRA-209" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-532" y="1618" as="targetPoint" />
             <Array as="points">
@@ -735,91 +747,91 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-137" value="보안" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-137" value="보안" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-467" y="1470" width="120" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-146" value="&lt;p class=&quot;0&quot; style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;kopubdotummedium&amp;#34; ; font-size: 12px ; color: rgb(49 , 49 , 49)&quot;&gt;단말 장치의 &lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: &amp;#34;kopubdotummedium&amp;#34; ; letter-spacing: 0pt ; font-size: 12px ; color: rgb(49 , 49 , 49)&quot;&gt;IP&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;kopubdotummedium&amp;#34; ; font-size: 12px ; color: rgb(49 , 49 , 49)&quot;&gt;와 &lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: &amp;#34;kopubdotummedium&amp;#34; ; letter-spacing: 0pt ; font-size: 12px ; color: rgb(49 , 49 , 49)&quot;&gt;MAC&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;kopubdotummedium&amp;#34; ; font-size: 12px ; color: rgb(49 , 49 , 49)&quot;&gt;을 통한 네트워크 연결 제한&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: &amp;#34;kopubdotummedium&amp;#34; ; letter-spacing: 0pt ; font-size: 12px ; color: rgb(49 , 49 , 49)&quot;&gt;(NAC) &lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;kopubdotummedium&amp;#34; ; font-size: 12px ; color: rgb(49 , 49 , 49)&quot;&gt;등 보안 기능&amp;nbsp;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-146" value="&lt;p class=&quot;0&quot; style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;kopubdotummedium&amp;#34; ; font-size: 12px ; color: rgb(49 , 49 , 49)&quot;&gt;단말 장치의 &lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: &amp;#34;kopubdotummedium&amp;#34; ; letter-spacing: 0pt ; font-size: 12px ; color: rgb(49 , 49 , 49)&quot;&gt;IP&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;kopubdotummedium&amp;#34; ; font-size: 12px ; color: rgb(49 , 49 , 49)&quot;&gt;와 &lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: &amp;#34;kopubdotummedium&amp;#34; ; letter-spacing: 0pt ; font-size: 12px ; color: rgb(49 , 49 , 49)&quot;&gt;MAC&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;kopubdotummedium&amp;#34; ; font-size: 12px ; color: rgb(49 , 49 , 49)&quot;&gt;을 통한 네트워크 연결 제한&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: &amp;#34;kopubdotummedium&amp;#34; ; letter-spacing: 0pt ; font-size: 12px ; color: rgb(49 , 49 , 49)&quot;&gt;(NAC) &lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;kopubdotummedium&amp;#34; ; font-size: 12px ; color: rgb(49 , 49 , 49)&quot;&gt;등 보안 기능&amp;nbsp;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="498" y="1006" width="122" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-147" value="비인가 장비 및&lt;br&gt;단말 자동 차단 기능" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-147" value="비인가 장비 및&lt;br&gt;단말 자동 차단 기능" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="329" y="1006" width="123" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-151" value="관리자 보안" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#b85450;fillColor=#f8cecc;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-151" value="관리자 보안" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#b85450;fillColor=#f8cecc;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-1255" y="1620" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-153" value="?" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#b85450;fillColor=#f8cecc;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-153" value="?" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#b85450;fillColor=#f8cecc;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-1051" y="1620" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-160" value="프로토콜" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-160" value="프로토콜" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-224.5" y="1473" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-163" value="장비 접속 보안" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#b85450;fillColor=#f8cecc;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-163" value="장비 접속 보안" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#b85450;fillColor=#f8cecc;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-827.5" y="1624" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-170" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; display: inline; float: none;&quot;&gt;고가용성&lt;/span&gt;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#b85450;fillColor=#f8cecc;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-170" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; display: inline; float: none;&quot;&gt;고가용성&lt;/span&gt;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#b85450;fillColor=#f8cecc;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="307" y="1480" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-171" value="라이선스" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#b85450;fillColor=#f8cecc;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-171" value="라이선스" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#b85450;fillColor=#f8cecc;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="543" y="1480" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-175" value="확장성" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#b85450;fillColor=#f8cecc;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-175" value="확장성" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#b85450;fillColor=#f8cecc;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="768" y="1475" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-181" value="호환성" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-181" value="호환성" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="1103" y="1473" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-185" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-185" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" parent="1" vertex="1">
           <mxGeometry x="606.25" y="995.5" width="23.5" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-186" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-186" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" parent="1" vertex="1">
           <mxGeometry x="606.25" y="920" width="23.5" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-187" value="IPv6" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#b85450;fillColor=#f8cecc;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-187" value="IPv6" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#b85450;fillColor=#f8cecc;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="1199" y="1805.5" width="32" height="31.5" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-188" value="IPv4" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-188" value="IPv4" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="1199" y="1763" width="32" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-192" value="모니터링" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#b85450;fillColor=#f8cecc;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-192" value="모니터링" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#b85450;fillColor=#f8cecc;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="42.5" y="1473" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-193" value="운영자 관련&lt;br&gt;로깅 기능" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-193" value="운영자 관련&lt;br&gt;로깅 기능" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="33" y="1597" width="141" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-194" value="학교에 대한 정보 및 설정 변경 시&lt;br&gt;로깅 기능" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-194" value="학교에 대한 정보 및 설정 변경 시&lt;br&gt;로깅 기능" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="32" y="1665" width="141" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-196" value="VLAN 변경 및&lt;br&gt;VLAN 추가 flow" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-196" value="VLAN 변경 및&lt;br&gt;VLAN 추가 flow" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="329" y="1090" width="123" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-198" value="제어 트래픽(TCP,&lt;br&gt;6653 etc.)은 flow에&lt;br&gt;의해 차단x" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-198" value="제어 트래픽(TCP,&lt;br&gt;6653 etc.)은 flow에&lt;br&gt;의해 차단x" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="498" y="1090" width="123" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-199" value="SNMP, SSH, Syslog 등은 flow에 의해&lt;br&gt;차단x" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-199" value="SNMP, SSH, Syslog 등은 flow에 의해&lt;br&gt;차단x" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="678" y="1090" width="123" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-202" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-202" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="1384" y="1499" width="182" height="211" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-203" value="기타" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-203" value="기타" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="1416" y="1480" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-204" value="RAID 0/1/1+0 지원" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-204" value="RAID 0/1/1+0 지원" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1411" y="1533.5" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-205" value="각종 어플리케이션이&lt;br&gt;네트워크 서비스,&lt;br&gt;장애 관리,&lt;br&gt;이벤트, 성능을 관리" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-205" value="각종 어플리케이션이&lt;br&gt;네트워크 서비스,&lt;br&gt;장애 관리,&lt;br&gt;이벤트, 성능을 관리" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1411" y="1620" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-209" value="요구 문서" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#b85450;fillColor=#f8cecc;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-209" value="요구 문서" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#b85450;fillColor=#f8cecc;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-587" y="1620" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-211" value="보안취약점 점검 및&lt;br&gt;조치결과" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-211" value="보안취약점 점검 및&lt;br&gt;조치결과" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-587" y="1720" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-213" value="&lt;p class=&quot;0&quot; style=&quot;line-height: 120% ; font-size: 12px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;kopubdotummedium&amp;#34; ; font-size: 12px ; color: rgb(49 , 49 , 49)&quot;&gt;모든 소프트웨어와 솔루션은 제조사의 라이선스 정책과 관계없이 지속적으로 제공&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-213" value="&lt;p class=&quot;0&quot; style=&quot;line-height: 120% ; font-size: 12px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;kopubdotummedium&amp;#34; ; font-size: 12px ; color: rgb(49 , 49 , 49)&quot;&gt;모든 소프트웨어와 솔루션은 제조사의 라이선스 정책과 관계없이 지속적으로 제공&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="538" y="1837" width="130" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-215" value="&#xa;&#xa;&lt;span lang=&quot;EN-US&quot; style=&quot;font-style: normal; font-weight: 400; letter-spacing: 0pt; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; font-family: kopubdotummedium; font-size: 12px; color: rgb(49, 49, 49);&quot;&gt;CLI, GUI, REST API&lt;/span&gt;&lt;span style=&quot;font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; font-family: kopubdotummedium; font-size: 12px; color: rgb(49, 49, 49);&quot;&gt;를 이용하여&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-style: normal; font-weight: 400; letter-spacing: 0pt; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; font-family: kopubdotummedium; font-size: 12px; color: rgb(49, 49, 49);&quot;&gt;SDN&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; font-family: kopubdotummedium; font-size: 12px; color: rgb(49, 49, 49);&quot;&gt;스위치를 관리&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-style: normal; font-weight: 400; letter-spacing: 0pt; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; font-family: kopubdotummedium; font-size: 12px; color: rgb(49, 49, 49);&quot;&gt;,&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; font-family: kopubdotummedium; font-size: 12px; color: rgb(49, 49, 49);&quot;&gt;설정&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-style: normal; font-weight: 400; letter-spacing: 0pt; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; font-family: kopubdotummedium; font-size: 12px; color: rgb(49, 49, 49);&quot;&gt;,&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; font-family: kopubdotummedium; font-size: 12px; color: rgb(49, 49, 49);&quot;&gt;디버그&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-style: normal; font-weight: 400; letter-spacing: 0pt; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; font-family: kopubdotummedium; font-size: 12px; color: rgb(49, 49, 49);&quot;&gt;,&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; font-family: kopubdotummedium; font-size: 12px; color: rgb(49, 49, 49);&quot;&gt;트러블슈팅&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-style: normal; font-weight: 400; letter-spacing: 0pt; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; font-family: kopubdotummedium; font-size: 12px; color: rgb(49, 49, 49);&quot;&gt;,&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; font-family: kopubdotummedium; font-size: 12px; color: rgb(49, 49, 49);&quot;&gt;업그레이드 기능 제공&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;labelBackgroundColor=none;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-215" value="&#xa;&#xa;&lt;span lang=&quot;EN-US&quot; style=&quot;font-style: normal; font-weight: 400; letter-spacing: 0pt; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; font-family: kopubdotummedium; font-size: 12px; color: rgb(49, 49, 49);&quot;&gt;CLI, GUI, REST API&lt;/span&gt;&lt;span style=&quot;font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; font-family: kopubdotummedium; font-size: 12px; color: rgb(49, 49, 49);&quot;&gt;를 이용하여&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-style: normal; font-weight: 400; letter-spacing: 0pt; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; font-family: kopubdotummedium; font-size: 12px; color: rgb(49, 49, 49);&quot;&gt;SDN&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; font-family: kopubdotummedium; font-size: 12px; color: rgb(49, 49, 49);&quot;&gt;스위치를 관리&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-style: normal; font-weight: 400; letter-spacing: 0pt; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; font-family: kopubdotummedium; font-size: 12px; color: rgb(49, 49, 49);&quot;&gt;,&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; font-family: kopubdotummedium; font-size: 12px; color: rgb(49, 49, 49);&quot;&gt;설정&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-style: normal; font-weight: 400; letter-spacing: 0pt; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; font-family: kopubdotummedium; font-size: 12px; color: rgb(49, 49, 49);&quot;&gt;,&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; font-family: kopubdotummedium; font-size: 12px; color: rgb(49, 49, 49);&quot;&gt;디버그&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-style: normal; font-weight: 400; letter-spacing: 0pt; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; font-family: kopubdotummedium; font-size: 12px; color: rgb(49, 49, 49);&quot;&gt;,&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; font-family: kopubdotummedium; font-size: 12px; color: rgb(49, 49, 49);&quot;&gt;트러블슈팅&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-style: normal; font-weight: 400; letter-spacing: 0pt; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; font-family: kopubdotummedium; font-size: 12px; color: rgb(49, 49, 49);&quot;&gt;,&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; font-family: kopubdotummedium; font-size: 12px; color: rgb(49, 49, 49);&quot;&gt;업그레이드 기능 제공&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;labelBackgroundColor=none;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="1266" y="452" width="122" height="88" as="geometry" />
         </mxCell>
       </root>
