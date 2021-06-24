@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-24T04:46:33.622Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="2eJTyGybbyEfXO11g41e" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-24T04:48:08.803Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="zSBjKwgv9vgB263wlk45" version="14.8.0" type="github">
   <diagram id="bMZPnwvL7SEXYUuxO_6x" name="Page-1">
-    <mxGraphModel dx="4131" dy="1575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2892" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -311,7 +311,7 @@
           <mxGeometry x="-1267.5" y="753" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-118" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="1258" y="210" width="160" height="280" as="geometry" />
+          <mxGeometry x="1258" y="210" width="160" height="350" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-119" value="&#xa;&#xa;&lt;span style=&quot;font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; display: inline; float: none;&quot;&gt;업그레이드&lt;/span&gt;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#b85450;fillColor=#f8cecc;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="1278" y="190" width="120" height="40" as="geometry" />
@@ -415,7 +415,7 @@
           <mxGeometry x="-1010" y="1630" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-201" value="SDN 스위치 보안패치&lt;br&gt;기능 지원" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="1271" y="500" width="137" height="50" as="geometry" />
+          <mxGeometry x="1277" y="487" width="122" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-202" value="바이러스 및 웜에&amp;nbsp;&lt;br&gt;대한 대응" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="-1010" y="1570" width="132" height="45" as="geometry" />
@@ -731,7 +731,7 @@
         <mxCell id="nBXMqKJNdPmPoWQ_-GRA-153" value="?" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#b85450;fillColor=#f8cecc;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="-1004" y="1520" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-160" value="프로토콜" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#b85450;fillColor=#f8cecc;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-160" value="프로토콜" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="-177.5" y="1373" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nBXMqKJNdPmPoWQ_-GRA-163" value="장비 접속 보안" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#b85450;fillColor=#f8cecc;fontSize=12;" vertex="1" parent="1">
@@ -748,6 +748,9 @@
         </mxCell>
         <mxCell id="nBXMqKJNdPmPoWQ_-GRA-181" value="호환성" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="1150" y="1373" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-185" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="1">
+          <mxGeometry x="606.25" y="995.5" width="23.5" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
