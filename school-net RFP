@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-24T04:55:39.366Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="lt4PWKI6Yce46RS5J7PN" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-24T05:01:29.999Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="QQFLm89_r90h7XPIu0Pl" version="14.8.0" type="github">
   <diagram id="bMZPnwvL7SEXYUuxO_6x" name="Page-1">
-    <mxGraphModel dx="2892" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3140" dy="945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,10 +35,10 @@
           <mxGeometry x="960" y="685" width="160" height="175" as="geometry" />
         </mxCell>
         <mxCell id="nBXMqKJNdPmPoWQ_-GRA-101" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="316" y="780" width="572" height="300" as="geometry" />
+          <mxGeometry x="316" y="780" width="572" height="400" as="geometry" />
         </mxCell>
         <mxCell id="nBXMqKJNdPmPoWQ_-GRA-96" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1468" y="154" width="160" height="206" as="geometry" />
+          <mxGeometry x="1468" y="154" width="160" height="196" as="geometry" />
         </mxCell>
         <mxCell id="nBXMqKJNdPmPoWQ_-GRA-54" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="-26.5" y="714" width="307" height="354" as="geometry" />
@@ -355,9 +355,6 @@
         <mxCell id="sN2intRHHpBrYbzuMWN3-157" value="학교별 네트워크&amp;nbsp;&lt;br&gt;장비 시스로그 저장, 관리, 조회 기능" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="558" y="650" width="120" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="sN2intRHHpBrYbzuMWN3-158" value="학교에 대한 정보 및 설정 변경 시&lt;br&gt;로깅 기능" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="-1588" y="816" width="120" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-160" value="단말의 IP 및 MAC &lt;br&gt;충돌&amp;nbsp;탐지 기능" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-2.5" y="815" width="127" height="46" as="geometry" />
         </mxCell>
@@ -487,7 +484,7 @@
           <mxGeometry x="140.5" y="748" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nBXMqKJNdPmPoWQ_-GRA-7" value="학교별 도면 및&lt;br&gt;포트맵 정보" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-1449" y="816" width="120" height="50" as="geometry" />
+          <mxGeometry x="-1589" y="818" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nBXMqKJNdPmPoWQ_-GRA-9" value="네트워크 장비&lt;br&gt;모델 및 연동상태" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2.5" y="748" width="128" height="50" as="geometry" />
@@ -499,7 +496,7 @@
           <mxGeometry x="-1519" y="630" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nBXMqKJNdPmPoWQ_-GRA-29" value="컨트롤러 상태(CPU,&lt;br&gt;메모리, 디스크 등) 등 모니터링 기능" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="79" y="1370" width="141" height="50" as="geometry" />
+          <mxGeometry x="79" y="1429" width="141" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nBXMqKJNdPmPoWQ_-GRA-30" value="정책 관리" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#b85450;fillColor=#f8cecc;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="-1267.5" y="640" width="120" height="40" as="geometry" />
@@ -763,6 +760,21 @@
         </mxCell>
         <mxCell id="nBXMqKJNdPmPoWQ_-GRA-188" value="IPv4" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="1246" y="1663" width="32" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-192" value="모니터링" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#b85450;fillColor=#f8cecc;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="89.5" y="1373" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-193" value="운영자 로그" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="79" y="1495" width="141" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-194" value="학교에 대한 정보 및 설정 변경 시&lt;br&gt;로깅 기능" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="79" y="1565" width="141" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-196" value="VLAN 변경 및&lt;br&gt;VLAN 추가 flow" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="329" y="1090" width="123" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-198" value="제어 트래픽(TCP,&lt;br&gt;6653 etc.)은 flow에&lt;br&gt;의해 차단x" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="498" y="1090" width="123" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
