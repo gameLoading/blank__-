@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-23T08:27:52.221Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="YVK7P5pYF3jdFqQsl6Uh" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-24T00:37:08.211Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="Sd33M1yQLL8OIKTHFRrA" version="14.8.0" type="github">
   <diagram id="bMZPnwvL7SEXYUuxO_6x" name="Page-1">
-    <mxGraphModel dx="4908" dy="2014" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2937" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry x="312" y="1230" width="1330" height="90" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-197" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="-1638" y="550" width="840" height="160" as="geometry" />
+          <mxGeometry x="-1450" y="550" width="652" height="240" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-139" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="-218" y="925" width="310" height="725" as="geometry" />
@@ -72,12 +72,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sN2intRHHpBrYbzuMWN3-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="sN2intRHHpBrYbzuMWN3-4" target="sN2intRHHpBrYbzuMWN3-33" edge="1">
+        <mxCell id="sN2intRHHpBrYbzuMWN3-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="sN2intRHHpBrYbzuMWN3-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="372" y="510" />
               <mxPoint x="552" y="510" />
             </Array>
+            <mxPoint x="552.0000000000005" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="sN2intRHHpBrYbzuMWN3-4" target="sN2intRHHpBrYbzuMWN3-36" edge="1">
@@ -236,9 +237,6 @@
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-31" value="포트 Up/Down" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="132" y="720" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="sN2intRHHpBrYbzuMWN3-33" value="원격 접속" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="492" y="550" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-36" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; display: inline; float: none;&quot;&gt;장비 reboot&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="662" y="550" width="120" height="50" as="geometry" />
@@ -577,10 +575,10 @@
           <mxGeometry x="-1438" y="645" width="137" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-202" value="바이러스 및 웜에&amp;nbsp;&lt;br&gt;대한 대응" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="-1608" y="580" width="137" height="50" as="geometry" />
+          <mxGeometry x="-1100" y="715" width="132" height="45" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-203" value="필수 프로그램 미설치&amp;nbsp;&lt;br&gt;시 차단격리기능 추가" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="-1608" y="645" width="137" height="50" as="geometry" />
+          <mxGeometry x="-940" y="715" width="122" height="45" as="geometry" />
         </mxCell>
         <mxCell id="sN2intRHHpBrYbzuMWN3-233" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" parent="1" source="sN2intRHHpBrYbzuMWN3-204" target="sN2intRHHpBrYbzuMWN3-205" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -636,8 +634,35 @@
         <mxCell id="sN2intRHHpBrYbzuMWN3-228" value="&lt;p class=&quot;0&quot; style=&quot;line-height: 120%&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: &amp;#34;kopubdotummedium&amp;#34; ; letter-spacing: 0pt ; font-size: 11.0pt ; color: #313131&quot;&gt;SBI &lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;kopubdotummedium&amp;#34; ; font-size: 11.0pt ; color: #313131&quot;&gt;프로토콜을 제공&lt;/span&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-family: &amp;#34;kopubdotummedium&amp;#34; ; letter-spacing: 0pt ; font-size: 11.0pt ; color: #313131&quot;&gt;(Openflow, Netconf/Yang, OVSDB ...)&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#ffffff;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="1406" y="1040" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="pUOcT97VCcXrqS7l1f5j-1" value="[스쿨넷 RFP]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#000000;fontSize=100;" vertex="1" parent="1">
+        <mxCell id="pUOcT97VCcXrqS7l1f5j-1" value="[스쿨넷 RFP]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#000000;fontSize=100;" parent="1" vertex="1">
           <mxGeometry x="-1618" y="150" width="660" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-3" value="운영 관리 학교 네트워크 현황 요약 &lt;br&gt;실시간 대시보드 확인 가능" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-968" y="1253" width="430" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-4" value="전체 학교 네트워크 &lt;br&gt;현황&amp;nbsp;요약 실시간 &lt;br&gt;대시보드 확인 가능" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-478" y="1194" width="140" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-5" value="학교별 실시간&lt;br&gt;토폴로지 제공" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-198" y="970" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-6" value="학교별 실시간&lt;br&gt;트래픽 정보 제공" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-48" y="970" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-7" value="학교별 도면 및&lt;br&gt;포트맵 정보" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-48" y="1040" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-8" value="학교별 실시간 &lt;br&gt;네트워크 접근 &lt;br&gt;단말 정보" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-198" y="1040" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-9" value="학교별 네트워크 장비&lt;br&gt;모델 및 연동상태" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-198" y="1110" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-10" value="학교별 네트워크&lt;br&gt;장비의 구체적인&lt;br&gt;설치위치 정보" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-48" y="1110" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nBXMqKJNdPmPoWQ_-GRA-12" value="원격 접속" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-1268" y="715" width="138" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
